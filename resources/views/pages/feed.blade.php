@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="js/pages/searchuser.js" ></script>
+</head>
+<body>
 @extends('layouts.user-no-nav')
 @section('page_title', __('Your feed'))
 
@@ -38,6 +48,47 @@
 @stop
 
 @section('content')
+<style>
+    .popup{
+        
+  background:rgba(0.1,0.1,0.1,0.1);
+  position:absolute;
+  top:-160rem;
+  right:0px;
+  bottom:0px;
+  left:0px;
+  transform:translate('-50%','-10%');
+  display:"none";
+    }
+    .searchform{
+      height:10rem;
+      display:"none" !important;
+        background:white;
+        box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    width:20rem;
+margin-left:-2rem;   
+}
+
+</style>
+<div style="display:flex;flex-direction:row;justify-content:center;align-items:center;" class="popup">
+<div style="display:none;" class="searchform">
+<form method="POST" action="{{ route('users.search') }}">
+    @csrf
+   <div style="margin-top:1rem;display:flex;flex-direction:column;justify-content:center;align-items:center;">
+   <input style="width:15rem;" class="form-control" type="text" name="query" placeholder="Enter user name">
+    <button style="margin-top:0.5rem;"  class="btn btn-primary" type="submit">Search</button>
+   </div>
+</form>
+</div>
+<div class="cancelbtn" style="display:none;margin-top:-8rem;margin-left:-2rem;">
+   <img style="width:2rem;" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/7.2.0/png/iconmonstr-x-mark-lined.png&r=0&g=0&b=0">
+   </div>
+
+</div>
+<div id="othercontent">
+
+
+
 <div class="d-none">
 <form method="POST" action="{{ route('users.search') }}">
     @csrf
@@ -72,3 +123,6 @@
 
 
 @stop
+</div>
+</body>
+</html>

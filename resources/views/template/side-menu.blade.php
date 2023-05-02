@@ -1,43 +1,71 @@
-<div class="side-menu px-1 px-md-2 px-lg-3" style="margin-left: 96px;margin-right: 79px;">
-    <div class="user-details mb-4 d-flex open-menu pointer-cursor flex-row-no-rtl">
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="js/pages/searchuser.js" ></script>
+</head>
+<body>
+<style>
+    .popup{
+        display:"none";
+    background:rgba(0.1,0.1,0.1,0.1);
+  position:absolute;
+  top:0px;
+  width:100vw;
+  right:0px;
+  bottom:0px;
+  left:0px;
+    }
+</style>
+<div class="popup">
+
+</div>
+<div id="othercontenttwo">
+
+    <div class="side-menu px-1 px-md-2 px-lg-3" style="margin-left: 96px;margin-right: 79px;">
+        <div class="user-details mb-4 d-flex open-menu pointer-cursor flex-row-no-rtl">
         <div class="ml-0 ml-md-2">
             @if(Auth::check())
                 <!-- <img src="{{Auth::user()->avatar}}" class="rounded-circle user-avatar"> -->
-            @else
+                @else
                 <div class="avatar-placeholder">
                     @include('elements.icon',['icon'=>'person-circle','variant'=>'xlarge text-muted'])
                 </div>
-            @endif
+                @endif
         </div>
         <!-- @if(Auth::check())
-            <div class="d-none d-lg-block overflow-hidden">
-                <div class="pl-2 d-flex justify-content-center flex-column overflow-hidden">
-                    <div class="ml-2 d-flex flex-column overflow-hidden">
-                        <span class="text-bold text-truncate {{(Cookie::get('app_theme') == null ? (getSetting('site.default_user_theme') == 'dark' ? '' : 'text-dark-r') : (Cookie::get('app_theme') == 'dark' ? '' : 'text-dark-r'))}}">{{Auth::user()->name}}</span>
+        <div class="d-none d-lg-block overflow-hidden">
+            <div class="pl-2 d-flex justify-content-center flex-column overflow-hidden">
+                <div class="ml-2 d-flex flex-column overflow-hidden">
+                    <span class="text-bold text-truncate {{(Cookie::get('app_theme') == null ? (getSetting('site.default_user_theme') == 'dark' ? '' : 'text-dark-r') : (Cookie::get('app_theme') == 'dark' ? '' : 'text-dark-r'))}}">{{Auth::user()->name}}</span>
                         <span class="text-muted"><span>@</span>{{Auth::user()->username}}</span>
                     </div>
                 </div>
             </div>
-        @endif -->
-    </div>
+            @endif -->
+        </div>
+        
     <ul class="nav flex-column user-side-menu">
         <li class="nav-item ">
-            <a href="{{Auth::check() ? route('feed') : route('home')}}" class="h-pill h-pill-primary nav-link {{Route::currentRouteName() == 'feed' ? 'active' : ''}} d-flex justify-content-between">
-                <div class="d-flex justify-content-center align-items-center">
-                    <div class="icon-wrapper d-flex justify-content-center align-items-center">
-                        @include('elements.icon',['icon'=>'home-outline','variant'=>'large'])
-                    </div>
-                    <span class="d-none d-md-block d-xl-block d-lg-block ml-2 text-truncate side-menu-label"></span>
-                    <!-- <span class="d-none d-md-block d-xl-block d-lg-block ml-2 text-truncate side-menu-label">{{__('Home')}}</span> -->
-                </div>
-            </a>
-        </li>
-        @if(GenericHelper::isEmailEnforcedAndValidated())
-            <li class="nav-item">
-                <a href="{{route('my.notifications')}}" class="nav-link h-pill h-pill-primary {{Route::currentRouteName() == 'my.notifications' ? 'active' : ''}} d-flex justify-content-between">
+    <a href="{{Auth::check() ? route('feed') : route('home')}}" class="h-pill h-pill-primary nav-link {{Route::currentRouteName() == 'feed' ? 'active' : ''}} d-flex justify-content-between">
+        <div class="d-flex justify-content-center align-items-center">
+            <div class="icon-wrapper d-flex justify-content-center align-items-center">
+                <img class="home-kzJKh3 home" src="/img/logos/home@2x.png" style="height:35px;" alt="home" />
+</div>
+</div>
+</a>
+</li>
+@if(GenericHelper::isEmailEnforcedAndValidated())
+<li id="searchuser" class="nav-item">
+                <a href="#" class="nav-link h-pill h-pill-primary {{Route::currentRouteName() == 'my.notifications' ? 'active' : ''}} d-flex justify-content-between">
                     <div class="d-flex justify-content-center align-items-center">
                         <div class="icon-wrapper d-flex justify-content-center align-items-center position-relative">
-                        <img class="home-kzJKh3 home" src="/img/logos/se.png" style="height:35px;margin-top: 5px;margin-left: 2px;" alt="home" />
+                            <img class="home-kzJKh3 home" src="/img/logos/se.png" style="height:35px;margin-top: 5px;margin-left: 2px;" alt="home" />
                             <!-- @include('elements.icon',['icon'=>'notifications-outline','variant'=>'large']) -->
                             <!-- <div class="menu-notification-badge notifications-menu-count {{(isset($notificationsCountOverride) && $notificationsCountOverride->total > 0 ) || (NotificationsHelper::getUnreadNotifications()->total > 0) ? '' : 'd-none'}}">
                                 {{!isset($notificationsCountOverride) ? NotificationsHelper::getUnreadNotifications()->total : $notificationsCountOverride->total}}
@@ -53,7 +81,7 @@
                         <div class="icon-wrapper d-flex justify-content-center align-items-center position-relative">
                         <img class="home-kzJKh3 home" src="/img/logos/messages-2@2x.png" style="height:35px;margin-top: 5px;margin-left: 5px;" alt="home" />   
                         <!-- @include('elements.icon',['icon'=>'chatbubble-outline','variant'=>'large'])
-                            <div class="menu-notification-badge chat-menu-count {{(NotificationsHelper::getUnreadMessages() > 0) ? '' : 'd-none'}}">
+                        <div class="menu-notification-badge chat-menu-count {{(NotificationsHelper::getUnreadMessages() > 0) ? '' : 'd-none'}}">
                                 {{NotificationsHelper::getUnreadMessages()}}
                             </div> -->
                         </div>
@@ -77,11 +105,11 @@
 
                     </a>
                 </li>
-            @endif
+                @endif
             <li class="nav-item">
                 <a href="{{route('my.bookmarks')}}" class="nav-link {{Route::currentRouteName() == 'my.bookmarks' ? 'active' : ''}} h-pill h-pill-primary d-flex justify-content-between">
                     <div class="d-flex justify-content-center align-items-center">
-                    <img class="home-kzJKh3 home" src="/img/logos/add-square@2x.png" style="height:35px;margin-top: 5px;margin-left: 2px;" alt="home" />
+                        <img class="home-kzJKh3 home" src="/img/logos/add-square@2x.png" style="height:35px;margin-top: 5px;margin-left: 2px;" alt="home" />
                         <!-- <div class="icon-wrapper d-flex justify-content-center align-items-center">
                             @include('elements.icon',['icon'=>'bookmark-outline','variant'=>'large'])
                         </div>
@@ -120,35 +148,35 @@
                 </a>
             </li> -->
         @endif
-
+        
         @if(!Auth::check())
-            <li class="nav-item">
-                <a href="{{route('search.get')}}" class="nav-link {{Route::currentRouteName() == 'search.get' ? 'active' : ''}} h-pill h-pill-primary d-flex justify-content-between">
+        <li class="nav-item">
+            <a href="{{route('search.get')}}" class="nav-link {{Route::currentRouteName() == 'search.get' ? 'active' : ''}} h-pill h-pill-primary d-flex justify-content-between">
                     <div class="d-flex justify-content-center align-items-center">
                         <div class="icon-wrapper d-flex justify-content-center align-items-center">
-                            @include('elements.icon',['icon'=>'compass-outline','variant'=>'large'])
-                        </div>
+                        <img style="height:35px;margin-top: -2px;margin-left: -59px;filter: invert(100%);" class="home-kzJKh3 home" src="https://img.icons8.com/?size=512&id=9110&format=png"></img>
+                    </div>
                         <span class="d-none d-md-block d-xl-block d-lg-block ml-2 text-truncate side-menu-label">{{__('Explore')}}</span>
                     </div>
                 </a>
             </li>
-        @endif
-
+            @endif
+            
         <li class="nav-item">
             <a href="#" role="button" class="open-menu nav-link h-pill h-pill-primary text-muted d-flex justify-content-between">
                 <div class="d-flex justify-content-center align-items-center">
-                    <div class="icon-wrapper d-flex justify-content-center align-items-center">
+                    <div class="icon-wrapper d-flex justify-content-center align-items-center;color:white;">
                         @include('elements.icon',['icon'=>'settings-outline','variant'=>'large'])
                     </div>
                     <!-- <span class="d-none d-md-block d-xl-block d-lg-block ml-2 text-truncate side-menu-label">{{__('More')}}</span> -->
                 </div>
             </a>
         </li>
-
+        
         @if(GenericHelper::isEmailEnforcedAndValidated())
-            @if(getSetting('streams.allow_streams'))
-                <li class="nav-item-live mt-2 mb-0">
-                    <a role="button" class="btn btn-round btn-outline-danger btn-block px-3" href="{{route('my.streams.get')}}{{StreamsHelper::getUserInProgressStream() ? '' : ( !GenericHelper::isUserVerified() && getSetting('site.enforce_user_identity_checks') ? '' : '?action=create')}}">
+        @if(getSetting('streams.allow_streams'))
+        <li class="nav-item-live mt-2 mb-0">
+            <a role="button" class="btn btn-round btn-outline-danger btn-block px-3" href="{{route('my.streams.get')}}{{StreamsHelper::getUserInProgressStream() ? '' : ( !GenericHelper::isUserVerified() && getSetting('site.enforce_user_identity_checks') ? '' : '?action=create')}}">
                         <div class="d-none d-md-flex d-xl-flex d-lg-flex justify-content-center align-items-center ml-1 text-truncate new-post-label">
                             <div class="d-flex justify-content-between align-items-center w-100">
                                 <div class="stream-on-label w-100 {{StreamsHelper::getUserInProgressStream() ? '' : 'd-none'}}">
@@ -169,20 +197,24 @@
                         <div class="d-block d-md-none d-flex align-items-center justify-content-center">@include('elements.icon',['icon'=>'add-circle-outline','variant'=>'medium','classes'=>'flex-shrink-0'])</div>
                     </a>
                 </li>
-            @endif
+                @endif
         @endif
-
+        
         <!-- @if(!getSetting('site.hide_create_post_menu'))
             @if(GenericHelper::isEmailEnforcedAndValidated())
-                <li class="nav-item">
+            <li class="nav-item">
                     <a role="button" class="btn btn-round btn-primary btn-block " href="{{route('posts.create')}}">
                         <span class="d-none d-md-block d-xl-block d-lg-block ml-2 text-truncate new-post-label">{{__('New post')}}</span>
                         <span class="d-block d-md-none d-flex align-items-center justify-content-center">@include('elements.icon',['icon'=>'add-circle-outline','variant'=>'medium','classes'=>'flex-shrink-0'])</span>
                     </a>
                 </li>
             @endif
-        @endif -->
+            @endif -->
 
-
-    </ul>
+            
+        </ul>
 </div>
+
+</div>
+</body>
+</html>

@@ -50,21 +50,22 @@
                 </div>
             </a>
         @endif
-        <a href="javascript:void(0)" class="open-menu h-pill h-pill-primary nav-link d-flex justify-content-between px-3">
-            <div class="d-flex justify-content-center align-items-center">
-                <!-- <div class="icon-wrapper d-flex justify-content-center align-items-center">
-                    @if(Auth::check())
-                        <img src="{{Auth::user()->avatar}}" class="rounded-circle user-avatar w-32">
-                    @else
-                        <div class="avatar-placeholder">
-                            @include('elements.icon',['icon'=>'person-circle','variant'=>'large'])
+        <ahref="#" role="button" class="open-menu nav-link h-pill h-pill-primary text-muted d-flex justify-content-between">
+                <div class="d-flex justify-content-center align-items-center">
+                    <!-- <div class="icon-wrapper d-flex justify-content-center align-items-center position-relative">
+                        @include('elements.icon',['icon'=>'chatbubble-outline','variant'=>'large'])
+                        <div class="menu-notification-badge chat-menu-count {{(NotificationsHelper::getUnreadMessages() > 0) ? '' : 'd-none'}}">
+                            {{NotificationsHelper::getUnreadMessages()}}
                         </div>
-                    @endif
-                </div> -->
-                <img class="home-kzJKh3 home" src="/img/logos/user@2x.png" style="height:35px;margin-top: -4px;margin-left: -63px;" alt="home" />
-                        
-                        <!-- <div class="home-soOxqW valign-text-middle home poppins-bold-white-16px" style="margin-left: -42px;color: white;margin-bottom: -32px;">Settings</div> -->
-            </div>
-        </a>
+                    </div> -->
+
+                   
+                        <!-- <div class="home-soOxqW valign-text-middle home poppins-bold-white-16px" style="margin-left: -36px;color: white;margin-bottom: -32px;">Chats</div> -->
+                        <div style="height:35px;margin-top: -2px;margin-left: -59px;color:white;" class="home-kzJKh3 home">
+
+                            @include('elements.icon',['icon'=>'settings-outline','variant'=>'large'])
+                        </div>
+                    </div>
+            </a>
     </div>
 </div>

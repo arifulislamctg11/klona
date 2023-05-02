@@ -151,7 +151,6 @@ Route::group(['middleware' => ['auth','verified','2fa']], function () {
     
     Route::post('/users/search', 'UserController@handleSearchRequest')->name('users.search');
 
-   
 
     // File uploader routes
     Route::group(['prefix' => 'attachment', 'as' => 'attachment.'], function () {
