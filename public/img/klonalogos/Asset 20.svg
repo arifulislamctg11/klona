@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 343.81 81.97">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 60.53px;
+        fill: #fff;
+        font-family: Montserrat-ExtraBold, Montserrat;
+        font-weight: 800;
+      }
+
+      .cls-2 {
+        letter-spacing: 0.03em;
+      }
+
+      .cls-3 {
+        fill: url(#New_Gradient_Swatch_1);
+      }
+
+      .cls-4 {
+        fill: url(#New_Gradient_Swatch_1-2);
+      }
+
+      .cls-5 {
+        fill: url(#New_Gradient_Swatch_1-3);
+      }
+
+      .cls-6 {
+        fill: url(#New_Gradient_Swatch_1-4);
+      }
+
+      .cls-7 {
+        fill: url(#New_Gradient_Swatch_1-5);
+      }
+    </style>
+    <linearGradient id="New_Gradient_Swatch_1" data-name="New Gradient Swatch 1" x1="23.61" y1="-4.96" x2="23.61" y2="80.42" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="0.23" stop-color="#8758f1"/>
+      <stop offset="0.5" stop-color="#7d4be3"/>
+      <stop offset="0.78" stop-color="#6c36cd"/>
+      <stop offset="1" stop-color="#5b21b6"/>
+    </linearGradient>
+    <linearGradient id="New_Gradient_Swatch_1-2" x1="41.21" y1="-4.94" x2="41.21" y2="80.42" xlink:href="#New_Gradient_Swatch_1"/>
+    <linearGradient id="New_Gradient_Swatch_1-3" x1="50.01" y1="-0.01" x2="50.01" y2="76.82" xlink:href="#New_Gradient_Swatch_1"/>
+    <linearGradient id="New_Gradient_Swatch_1-4" x1="14.81" y1="-0.01" x2="14.81" y2="76.82" xlink:href="#New_Gradient_Swatch_1"/>
+    <linearGradient id="New_Gradient_Swatch_1-5" x1="32.47" y1="-0.01" x2="32.47" y2="76.82" gradientTransform="translate(43.87 -8.73) rotate(45)" xlink:href="#New_Gradient_Swatch_1"/>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <text class="cls-1" transform="translate(73.35 61.77)">Klona<tspan class="cls-2" x="184.93" y="0">.</tspan><tspan x="203.94" y="0">Ai</tspan></text>
+        <g>
+          <g>
+            <polygon class="cls-3" points="29.61 0.17 29.61 32.48 17.6 44.49 17.6 12.19 29.61 0.17"/>
+            <polygon class="cls-4" points="47.21 12.01 47.21 44.45 35.2 32.44 35.2 0 47.21 12.01"/>
+            <polygon class="cls-5" points="52.8 22.04 52.8 47.38 35.2 64.98 35.2 70.17 35.2 81.97 41.1 76.07 47 70.17 52.8 64.37 64.81 52.36 64.81 35.37 64.81 34.05 52.8 22.04"/>
+            <polygon class="cls-6" points="26.59 61.56 12.01 46.98 12.01 22.21 0 34.22 0 34.97 0 51.95 12.01 63.96 18.1 70.06 24.11 76.07 29.61 81.56 29.61 70.57 29.61 64.58 26.59 61.56"/>
+          </g>
+          <rect class="cls-7" x="24.81" y="40.93" width="15.33" height="15.33" transform="translate(-24.85 37.19) rotate(-45)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

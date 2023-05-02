@@ -1,0 +1,1395 @@
+/* screen - chat-all-breakpoints */
+
+.chat-all-breakpoints {
+  background-color: var(--cod-gray);
+  border: 1px none;
+  margin: 0px;
+  min-height: 810px;
+  min-width: 100%;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.chat-all-breakpoints .backgrund-mmO8HF {
+  background-color: transparent;
+  height: 4860px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.chat-all-breakpoints .hero-background-pRWnia {
+  height: 810px;
+  left: 0px;
+  top: 0px;
+}
+
+.chat-all-breakpoints .hero-background-twARyd {
+  height: 1px;
+  left: 0px;
+  top: 810px;
+}
+
+.chat-all-breakpoints .hero-background-G3eutM {
+  height: 810px;
+  left: 7601px;
+  top: -6875px;
+}
+
+.chat-all-breakpoints .hero-background-7pButu {
+  height: 810px;
+  left: 7601px;
+  top: -6065px;
+}
+
+.chat-all-breakpoints .hero-background-fC4i0k {
+  height: 810px;
+  left: 7601px;
+  top: -5255px;
+}
+
+.chat-all-breakpoints .hero-background-HuxOtY {
+  height: 810px;
+  left: 7601px;
+  top: -4445px;
+}
+
+.chat-all-breakpoints .frame-15-mmO8HF {
+  background-color: var(--moody-blue);
+  height: auto;
+  left: 24px;
+  top: 734px;
+  width: fit-content;
+}
+
+.chat-all-breakpoints .icon-user-MEv8OR {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.chat-all-breakpoints .group-91-mmO8HF {
+  background-color: transparent;
+  height: 40px;
+  left: 40px;
+  position: absolute;
+  top: 33px;
+  width: 1360px;
+}
+
+.chat-all-breakpoints .logo-wKzYAY {
+  background-color: transparent;
+  height: 34px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3px;
+  width: 81px;
+}
+
+.chat-all-breakpoints .frame-6-wKzYAY {
+  align-items: flex-start;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--white-2);
+  border-radius: 68px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  left: 264px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  padding: 8px 16px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.chat-all-breakpoints .search-here-DJFKiv {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.chat-all-breakpoints .search-normal-DJFKiv {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.chat-all-breakpoints .frame-7-wKzYAY {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 20px;
+  height: auto;
+  left: 1276px;
+  position: absolute;
+  top: 0px;
+  width: fit-content;
+}
+
+.chat-all-breakpoints .message-question-6kCWM0 {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.chat-all-breakpoints .button-6kCWM0 {
+  align-items: center;
+  background-color: var(--moody-blue);
+  border-radius: 24px;
+  display: flex;
+  height: auto;
+  justify-content: center;
+  mix-blend-mode: normal;
+  padding: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.chat-all-breakpoints .icon-settings-mPnlYj {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.chat-all-breakpoints .rectangle-22-mmO8HF {
+  -webkit-backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  background-color: transparent;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--white-2);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  height: 1px;
+  left: 280px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 106px;
+  width: 1160px;
+}
+
+.chat-all-breakpoints .rectangle-64-mmO8HF {
+  -webkit-backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  background-color: var(--steel-gray);
+  height: 80px;
+  left: 280px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 107px;
+  width: 1160px;
+}
+
+.chat-all-breakpoints .more-mmO8HF {
+  background-color: transparent;
+  height: 24px;
+  left: 1376px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 135px;
+  width: 24px;
+}
+
+.chat-all-breakpoints .frame-73-mmO8HF {
+  align-items: flex-end;
+  background-color: transparent;
+  display: flex;
+  gap: 9px;
+  height: auto;
+  left: 348px;
+  position: absolute;
+  top: 122px;
+  width: fit-content;
+}
+
+.chat-all-breakpoints .marley-vCM7aF {
+  line-height: 28.0px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.chat-all-breakpoints .marley-mmO8HF {
+  height: 22px;
+  left: 348px;
+  line-height: 21.6px;
+  position: absolute;
+  top: 150px;
+  width: auto;
+}
+
+.chat-all-breakpoints .x506-k-mmO8HF {
+  background-color: transparent;
+  height: 22px;
+  left: 430px;
+  letter-spacing: 0.00px;
+  line-height: 21.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 128px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.chat-all-breakpoints .arrow-left-mmO8HF {
+  background-color: transparent;
+  height: 24px;
+  left: 304px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 135px;
+  width: 24px;
+}
+
+.chat-all-breakpoints .rectangle-65-mmO8HF {
+  -webkit-backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  background-color: transparent;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--white-2);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  height: 1px;
+  left: 280px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 186px;
+  width: 1160px;
+}
+
+.chat-all-breakpoints .frame-103-mmO8HF {
+  align-items: flex-start;
+  background-color: var(--moody-blue);
+  border-radius: 16px;
+  display: flex;
+  gap: 10px;
+  height: auto;
+  left: 304px;
+  mix-blend-mode: normal;
+  padding: 16px;
+  position: absolute;
+  top: 211px;
+  width: 470px;
+}
+
+.chat-all-breakpoints .senior-ui-ux-designe-fqzzEE {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 21.6px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.chat-all-breakpoints .frame-89-mmO8HF {
+  align-items: flex-start;
+  background-color: var(--moody-blue);
+  border-radius: 16px;
+  display: flex;
+  gap: 10px;
+  height: auto;
+  left: 304px;
+  mix-blend-mode: normal;
+  padding: 16px;
+  position: absolute;
+  top: 445px;
+  width: 809px;
+}
+
+.chat-all-breakpoints .designing-with-ai-in-pqZ2gA {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 21.6px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.chat-all-breakpoints .frame-88-mmO8HF {
+  align-items: center;
+  background-color: var(--oracle);
+  border-radius: 16px;
+  display: flex;
+  gap: 10px;
+  height: auto;
+  justify-content: flex-end;
+  mix-blend-mode: normal;
+  padding: 16px;
+  position: absolute;
+  right: 40px;
+  top: 333px;
+  width: 244px;
+}
+
+.chat-all-breakpoints .frame-87-4N3gaO {
+  align-items: flex-end;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  height: auto;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.chat-all-breakpoints .umair-ui-ux-9nc7Cz {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.chat-all-breakpoints .how-to-design-with-ai-9nc7Cz {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 21.6px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.chat-all-breakpoints .frame-18-mmO8HF {
+  -webkit-backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  background-color: var(--steel-gray);
+  border: 1px solid;
+  border-color: var(--white-2);
+  border-radius: 755px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  left: 304px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  padding: 8px 16px;
+  position: absolute;
+  top: 738px;
+  width: 1096px;
+}
+
+.chat-all-breakpoints .frame-5-oHXwpX {
+  gap: 10px;
+}
+
+.chat-all-breakpoints .icon-paperclip-8ZsKVI {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.chat-all-breakpoints .type-a-message-8ZsKVI {
+  background-color: transparent;
+  border: 0;
+  flex: 1;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  min-width: 996px;
+  mix-blend-mode: normal;
+  padding: 0;
+  position: relative;
+  resize: none;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.chat-all-breakpoints .type-a-message-8ZsKVI::placeholder {
+  color: #ffffff6e;
+}
+
+.chat-all-breakpoints .send-2-8ZsKVI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.chat-all-breakpoints .component-2-mmO8HF {
+  background-color: transparent;
+  height: 810px;
+  left: 10px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 73px;
+  width: 280px;
+}
+
+.chat-all-breakpoints .rectangle-20-yDs5F6 {
+  position: absolute;
+}
+
+.chat-all-breakpoints .rectangle-20-ybrRaz {
+  -webkit-backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  border-bottom-style: none;
+  border-color: var(--white-2);
+  border-left-style: none;
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-top-style: none;
+  position: relative;
+}
+
+.chat-all-breakpoints .umairuiux-yDs5F6 {
+  background-color: transparent;
+  height: 2.72%;
+  left: 31.43%;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 92.22%;
+  white-space: nowrap;
+  width: 29.29%;
+}
+
+.chat-all-breakpoints .frame-17-yDs5F6 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: 28.15%;
+  left: 8.57%;
+  position: absolute;
+  top: 13.21%;
+  width: 82.86%;
+}
+
+.chat-all-breakpoints .frame-14-m6UbfU {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--medium-purple);
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  mix-blend-mode: normal;
+  padding: 12px 16px;
+  position: relative;
+}
+
+.chat-all-breakpoints .frame-8-xzNnv5 {
+  align-self: stretch;
+}
+
+.chat-all-breakpoints .add-square-w4jvmn {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.chat-all-breakpoints .create-w4jvmn {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.chat-all-breakpoints .frame-9-m6UbfU {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white-4);
+  border: 1px solid;
+  border-color: var(--white-4);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  mix-blend-mode: normal;
+  padding: 12px 16px;
+  position: relative;
+}
+
+.chat-all-breakpoints .frame-8-0ADlco {
+  align-self: stretch;
+  cursor: pointer;
+}
+
+.chat-all-breakpoints .home-xFTX8R {
+  height: 24px;
+  min-width: 24px;
+}
+
+.chat-all-breakpoints .home-LDegqs {
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.chat-all-breakpoints .frame-10-m6UbfU {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  padding: 12px 16px;
+  position: relative;
+}
+
+.chat-all-breakpoints .frame-8-ZypHI3 {
+  align-self: stretch;
+  cursor: pointer;
+}
+
+.chat-all-breakpoints .speedometer-jwvbLP {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.chat-all-breakpoints .feed-jwvbLP {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.chat-all-breakpoints .frame-11-m6UbfU {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  padding: 12px 16px;
+  position: relative;
+}
+
+.chat-all-breakpoints .frame-8-OMe2nB {
+  cursor: pointer;
+  width: fit-content;
+}
+
+.chat-all-breakpoints .messages-2-NQJwHP {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.chat-all-breakpoints .chats-NQJwHP {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.chat-all-breakpoints .frame-15-yDs5F6 {
+  background-color: var(--medium-purple);
+  height: 5.93%;
+  left: 8.57%;
+  top: 90.62%;
+  width: 17.14%;
+}
+
+.chat-all-breakpoints .user-vWR2Bi {
+  background-color: transparent;
+  height: 24px;
+  margin-right: -7567.00px;
+  margin-top: -9302.00px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.chat-all-breakpoints .frame-15 {
+  align-items: flex-start;
+  border-radius: 127px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  mix-blend-mode: normal;
+  padding: 12px;
+  position: absolute;
+}
+
+.chat-all-breakpoints .frame-5 {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  height: auto;
+  position: relative;
+}
+
+.chat-all-breakpoints .hero-background {
+  background-color: transparent;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  width: 1440px;
+}
+
+.chat-all-breakpoints .marley {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  mix-blend-mode: normal;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.chat-all-breakpoints .rectangle-72 {
+  background-color: transparent;
+  height: 60px;
+  min-width: 60px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: relative;
+}
+/* screen - chat-mobile */
+
+.chat-mobile {
+  background-color: var(--white);
+  border: 1px none;
+  margin: 0px;
+  min-height: 932px;
+  min-width: 430px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.chat-mobile .frame-104-P0psld {
+  background-color: transparent;
+  height: 4860px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 430px;
+}
+
+.chat-mobile .backgrund-E3xPzh {
+  background-color: transparent;
+  height: 4860px;
+  left: -505px;
+  position: relative;
+  top: 0px;
+  width: 1440px;
+}
+
+.chat-mobile .hero-background-bxhefM {
+  height: 810px;
+  left: 505px;
+  top: 0px;
+  width: 430px;
+}
+
+.chat-mobile .hero-background-yR1MQx {
+  height: 122px;
+  left: 505px;
+  top: 810px;
+  width: 430px;
+}
+
+.chat-mobile .hero-background-AKvefe {
+  height: 810px;
+  left: 7549px;
+  top: -4090px;
+  width: 1440px;
+}
+
+.chat-mobile .hero-background-Xxxifi {
+  height: 810px;
+  left: 7549px;
+  top: -3280px;
+  width: 1440px;
+}
+
+.chat-mobile .hero-background-AlxYgo {
+  height: 810px;
+  left: 7549px;
+  top: -2470px;
+  width: 1440px;
+}
+
+.chat-mobile .hero-background-2egx34 {
+  height: 810px;
+  left: 7549px;
+  top: -1660px;
+  width: 1440px;
+}
+
+.chat-mobile .bottom-menu-P0psld {
+  background-color: transparent;
+  height: 83px;
+  left: 0px;
+  position: absolute;
+  top: 849px;
+  width: 430px;
+}
+
+.chat-mobile .rectangle-mVJWeU {
+  -webkit-backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  background-color: var(--steel-gray);
+  border-bottom-style: none;
+  border-color: var(--white-2);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 83px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 430px;
+}
+
+.chat-mobile .frame-105-mVJWeU {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 430px;
+}
+
+.chat-mobile .tab-1-aUD6xD {
+  background-color: transparent;
+  flex: 1;
+  height: 49px;
+  min-width: 86px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+}
+
+.chat-mobile .home-YNg4Jc {
+  background-color: transparent;
+  height: 24px;
+  left: calc(50.00% - 13px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 18px);
+  width: 24px;
+}
+
+.chat-mobile .status-YNg4Jc {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 14px);
+  letter-spacing: 0.10px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: calc(50.00% + 10px);
+  width: auto;
+}
+
+.chat-mobile .tab-2-aUD6xD {
+  background-color: transparent;
+  flex: 1;
+  height: 49px;
+  min-width: 86px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+}
+
+.chat-mobile .speedometer-BHOBLY {
+  background-color: transparent;
+  height: 24px;
+  left: calc(50.00% - 13px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 18px);
+  width: 24px;
+}
+
+.chat-mobile .calls-BHOBLY {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 13px);
+  letter-spacing: 0.10px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: calc(50.00% + 10px);
+  width: auto;
+}
+
+.chat-mobile .tab-3-aUD6xD {
+  background-color: transparent;
+  flex: 1;
+  height: 49px;
+  min-width: 86px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+}
+
+.chat-mobile .camera-moHR9h {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 17px);
+  letter-spacing: 0.10px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: calc(50.00% + 10px);
+  width: auto;
+}
+
+.chat-mobile .add-square-moHR9h {
+  background-color: transparent;
+  height: 24px;
+  left: calc(50.00% - 13px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 18px);
+  width: 24px;
+}
+
+.chat-mobile .tab-7-aUD6xD {
+  background-color: transparent;
+  flex: 1;
+  height: 49px;
+  min-width: 86px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+}
+
+.chat-mobile .messages-2-WiQBZN {
+  background-color: transparent;
+  height: 24px;
+  left: calc(50.00% - 12px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 18px);
+  width: 24px;
+}
+
+.chat-mobile .chats-WiQBZN {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 15px);
+  letter-spacing: 0.10px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: calc(50.00% + 10px);
+  width: auto;
+}
+
+.chat-mobile .tab-6-aUD6xD {
+  background-color: transparent;
+  flex: 1;
+  height: 49px;
+  min-width: 86px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+}
+
+.chat-mobile .settings-ZKN9Hy {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 16px);
+  letter-spacing: 0.10px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: calc(50.00% + 10px);
+  width: auto;
+}
+
+.chat-mobile .icon-user-ZKN9Hy {
+  background-color: transparent;
+  height: 24px;
+  left: calc(50.00% - 12px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 18px);
+  width: 24px;
+}
+
+.chat-mobile .home-indicator-mVJWeU {
+  background-color: transparent;
+  bottom: 0px;
+  height: 34px;
+  left: 0px;
+  position: absolute;
+  width: 430px;
+}
+
+.chat-mobile .home-indicator-6PuCkp {
+  background-color: var(--black);
+  border-radius: 100px;
+  bottom: 8px;
+  height: 5px;
+  left: calc(50.00% - 67px);
+  mix-blend-mode: normal;
+  position: absolute;
+  width: 134px;
+}
+
+.chat-mobile .rectangle-64-P0psld {
+  -webkit-backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  background-color: transparent;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--white-2);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  height: 80px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 430px;
+}
+
+.chat-mobile .logo-P0psld {
+  background-color: transparent;
+  height: 34px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 23px;
+  width: 81px;
+}
+
+.chat-mobile .frame-106-P0psld {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 20px;
+  height: auto;
+  position: absolute;
+  right: 28px;
+  top: 28px;
+  width: fit-content;
+}
+
+.chat-mobile .search-normal-fdRvA5 {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.chat-mobile .message-question-fdRvA5 {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.chat-mobile .icon-settings-fdRvA5 {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.chat-mobile .rectangle-65-P0psld {
+  -webkit-backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  background-color: var(--steel-gray);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--white-2);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  height: 79px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 80px;
+  width: 430px;
+}
+
+.chat-mobile .frame-112-P0psld {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 212px;
+  height: auto;
+  left: 20px;
+  position: absolute;
+  top: 96px;
+  width: fit-content;
+}
+
+.chat-mobile .frame-111-0JJCxz {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 20px;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.chat-mobile .arrow-left-evjTPO {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.chat-mobile .frame-110-evjTPO {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.chat-mobile .frame-109-Uymbxh {
+  align-items: flex-end;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.chat-mobile .frame-73-3mrkmf {
+  align-items: flex-end;
+  background-color: transparent;
+  display: flex;
+  gap: 9px;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.chat-mobile .marley-CrBrge {
+  line-height: 25.2px;
+  margin-top: -1.00px;
+}
+
+.chat-mobile .x506-k-3mrkmf {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 21.6px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.chat-mobile .marley-Uymbxh {
+  line-height: 21.6px;
+}
+
+.chat-mobile .more-0JJCxz {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.chat-mobile .frame-103-P0psld {
+  align-items: flex-start;
+  background-color: #7e6dd166;
+  border-radius: 16px;
+  display: flex;
+  gap: 10px;
+  height: auto;
+  left: 20px;
+  mix-blend-mode: normal;
+  padding: 12px;
+  position: absolute;
+  top: 199px;
+  width: 303px;
+}
+
+.chat-mobile .rectangle-72-DYCTVf {
+  height: 48px;
+  min-width: 48px;
+}
+
+.chat-mobile .senior-ui-ux-designe-LkbTFS {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 21.6px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.chat-mobile .frame-88-P0psld {
+  align-items: center;
+  background-color: #2a757666;
+  border-radius: 16px;
+  display: flex;
+  gap: 10px;
+  height: auto;
+  justify-content: flex-end;
+  mix-blend-mode: normal;
+  padding: 16px;
+  position: absolute;
+  right: 20px;
+  top: 325px;
+  width: 244px;
+}
+
+.chat-mobile .frame-87-AmszKN {
+  align-items: flex-end;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  height: auto;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.chat-mobile .umair-ui-ux-gLz4xN {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.chat-mobile .how-to-design-with-ai-gLz4xN {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 21.6px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.chat-mobile .rectangle-72-AmszKN {
+  height: 60px;
+  min-width: 60px;
+}
+
+.chat-mobile .frame-89-P0psld {
+  align-items: flex-start;
+  background-color: #7e6dd166;
+  border-radius: 16px;
+  display: flex;
+  gap: 10px;
+  height: auto;
+  left: 20px;
+  mix-blend-mode: normal;
+  padding: 16px;
+  position: absolute;
+  top: 466px;
+  width: 366px;
+}
+
+.chat-mobile .rectangle-72-Oi7CyJ {
+  height: 48px;
+  min-width: 48px;
+}
+
+.chat-mobile .designing-with-ai-in-vC2uex {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 21.6px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+}
+
+.chat-mobile .frame-18-P0psld {
+  -webkit-backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  background-color: var(--steel-gray);
+  border: 1px solid;
+  border-color: var(--white-2);
+  border-radius: 755px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  left: 20px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  padding: 8px 16px;
+  position: absolute;
+  top: 790px;
+  width: 390px;
+}
+
+.chat-mobile .frame-5-0KIQiV {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  height: auto;
+  position: relative;
+}
+
+.chat-mobile .icon-paperclip-wC2Mmi {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.chat-mobile .type-a-message-wC2Mmi {
+  background-color: transparent;
+  border: 0;
+  flex: 1;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  min-width: 290px;
+  mix-blend-mode: normal;
+  padding: 0;
+  position: relative;
+  resize: none;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.chat-mobile .type-a-message-wC2Mmi::placeholder {
+  color: #ffffff6e;
+}
+
+.chat-mobile .send-2-wC2Mmi {
+  background-color: transparent;
+  cursor: pointer;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.chat-mobile .hero-background {
+  background-color: transparent;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+}
+
+.chat-mobile .marley {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.chat-mobile .rectangle-72 {
+  background-color: transparent;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: relative;
+}
+@media screen and (max-width: 1023px) {
+  .screen.chat-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1024px) {
+  .screen.chat-mobile { 
+    display: none;
+   }
+}

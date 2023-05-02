@@ -1,0 +1,2375 @@
+/* screen - character-profile-all-breakpoints */
+
+.character-profile-all-breakpoints {
+  background-color: var(--cod-gray);
+  border: 1px none;
+  margin: 0px;
+  min-height: 1929px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.character-profile-all-breakpoints .backgrund-5sR7Hf {
+  background-color: transparent;
+  height: 4860px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.character-profile-all-breakpoints .hero-background-MJxY2o {
+  height: 810px;
+  left: 0px;
+  top: 0px;
+}
+
+.character-profile-all-breakpoints .hero-background-WGCVOC {
+  height: 810px;
+  left: 0px;
+  top: 810px;
+}
+
+.character-profile-all-breakpoints .hero-background-xP00F2 {
+  height: 309px;
+  left: 0px;
+  top: 1620px;
+}
+
+.character-profile-all-breakpoints .hero-background-fmHqvy {
+  height: 810px;
+  left: 4659px;
+  top: -5993px;
+}
+
+.character-profile-all-breakpoints .hero-background-BIgF4Q {
+  height: 810px;
+  left: 4659px;
+  top: -5183px;
+}
+
+.character-profile-all-breakpoints .hero-background-6sKI6X {
+  height: 810px;
+  left: 4659px;
+  top: -4373px;
+}
+
+.character-profile-all-breakpoints .rectangle-23-5sR7Hf {
+  -webkit-backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  background-color: transparent;
+  border-bottom-style: none;
+  border-color: var(--white-2);
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-right-style: none;
+  border-top-style: none;
+  height: 1806px;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 0px;
+  top: 123px;
+  width: 325px;
+}
+
+.character-profile-all-breakpoints .frame-15-5sR7Hf {
+  height: auto;
+  left: 24px;
+  top: 734px;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .group-91-5sR7Hf {
+  background-color: transparent;
+  height: 40px;
+  left: 40px;
+  position: absolute;
+  top: 33px;
+  width: 1360px;
+}
+
+.character-profile-all-breakpoints .logo-n7q63x {
+  background-color: transparent;
+  height: 34px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3px;
+  width: 81px;
+}
+
+.character-profile-all-breakpoints .frame-6-n7q63x {
+  align-items: flex-start;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--white-2);
+  border-radius: 68px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  left: 264px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  padding: 8px 16px;
+  position: absolute;
+  top: 0px;
+  width: 680px;
+}
+
+.character-profile-all-breakpoints .frame-5-KG6rE3 {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  height: auto;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .search-here-RUxPJM {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.character-profile-all-breakpoints .search-normal-RUxPJM {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .frame-7-n7q63x {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 20px;
+  height: auto;
+  left: 1276px;
+  position: absolute;
+  top: 0px;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .message-question-HQysTv {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .button-HQysTv {
+  align-items: center;
+  background-color: var(--medium-purple);
+  border-radius: 24px;
+  display: flex;
+  height: auto;
+  justify-content: center;
+  mix-blend-mode: normal;
+  padding: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .icon-settings-mjPwAv {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .rectangle-22-5sR7Hf {
+  -webkit-backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  background-color: transparent;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--white-2);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  height: 1px;
+  left: 280px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 106px;
+  width: 1160px;
+}
+
+.character-profile-all-breakpoints .rectangle-68-5sR7Hf {
+  background-color: transparent;
+  height: 248px;
+  left: 280px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 107px;
+  width: 835px;
+}
+
+.character-profile-all-breakpoints .frame-69-5sR7Hf {
+  align-items: flex-end;
+  background-color: transparent;
+  display: flex;
+  gap: 20px;
+  height: auto;
+  left: 320px;
+  position: absolute;
+  top: 311px;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .rectangle-69-keFxAz {
+  height: 120px;
+  min-width: 120px;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .frame-68-keFxAz {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .livia-press-Lixp4l {
+  line-height: 33.6px;
+  width: 203px;
+}
+
+.character-profile-all-breakpoints .alexa-Lixp4l {
+  line-height: 28.8px;
+}
+
+.character-profile-all-breakpoints .alice-is-an-artist-a-5sR7Hf {
+  height: 20px;
+  left: 320px;
+  line-height: 19.6px;
+  top: 447px;
+  white-space: nowrap;
+  width: 755px;
+}
+
+.character-profile-all-breakpoints .x2555-k-5sR7Hf {
+  height: 28px;
+  left: 1004px;
+  line-height: 28.0px;
+  top: 314px;
+  width: auto;
+}
+
+.character-profile-all-breakpoints .frame-73-5sR7Hf {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 16px;
+  height: auto;
+  position: absolute;
+  right: 365px;
+  top: 368px;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .frame-70-ozKwNq {
+  background-color: var(--medium-purple);
+  border-radius: 65px;
+  height: 40px;
+  min-width: 140px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .subscribe-9FBxEw {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 25px;
+  left: calc(50.00% - 35px);
+  letter-spacing: 0.00px;
+  line-height: 25.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 12px);
+  white-space: nowrap;
+  width: auto;
+}
+
+.character-profile-all-breakpoints .frame-72-ozKwNq {
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--medium-purple);
+  border-radius: 65px;
+  height: 40px;
+  min-width: 40px;
+  overflow: hidden;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .icon-star-R8BS1h {
+  background-color: transparent;
+  height: 24px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 24px;
+}
+
+.character-profile-all-breakpoints .frame-71-ozKwNq {
+  min-width: 40px;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .share-5563qY {
+  height: 24px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 24px;
+}
+
+.character-profile-all-breakpoints .frame-71-5sR7Hf {
+  left: 980px;
+  position: absolute;
+  top: 528px;
+  width: 40px;
+}
+
+.character-profile-all-breakpoints .image-QURfib {
+  background-color: transparent;
+  height: 24px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8px;
+  width: 24px;
+}
+
+.character-profile-all-breakpoints .vector-8-5sR7Hf {
+  background-color: transparent;
+  height: 1px;
+  left: 280px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 498px;
+  width: 835px;
+}
+
+.character-profile-all-breakpoints .suggestion-for-you-5sR7Hf {
+  background-color: transparent;
+  height: 28px;
+  left: 1139px;
+  letter-spacing: 0.00px;
+  line-height: 28.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 330px;
+  white-space: nowrap;
+  width: 226px;
+}
+
+.character-profile-all-breakpoints .group-94-5sR7Hf {
+  background-color: transparent;
+  height: 74px;
+  left: 1139px;
+  position: absolute;
+  top: 378px;
+  width: 279px;
+}
+
+.character-profile-all-breakpoints .rectangle-64-dNLCrJ {
+  height: 74px;
+  left: 0px;
+  top: 0px;
+  width: 277px;
+}
+
+.character-profile-all-breakpoints .frame-60-dNLCrJ {
+  gap: 8px;
+  left: 15px;
+  top: 14px;
+  width: 172px;
+}
+
+.character-profile-all-breakpoints .rectangle-66-lrGMSK {
+  height: 40px;
+  min-width: 40px;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .frame-59-lrGMSK {
+  gap: 6px;
+}
+
+.character-profile-all-breakpoints .livia-press-ngtot3 {
+  line-height: 22.4px;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .alexa-d49eeL {
+  line-height: 21.6px;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+}
+
+.character-profile-all-breakpoints .x2555-k-dNLCrJ {
+  height: 18px;
+  left: 210px;
+  line-height: 21.6px;
+  top: 42px;
+  width: 51px;
+}
+
+.character-profile-all-breakpoints .group-95-5sR7Hf {
+  background-color: transparent;
+  height: 74px;
+  left: 1139px;
+  position: absolute;
+  top: 468px;
+  width: 279px;
+}
+
+.character-profile-all-breakpoints .rectangle-64-920RFv {
+  height: 74px;
+  left: 0px;
+  top: 0px;
+  width: 277px;
+}
+
+.character-profile-all-breakpoints .frame-60-920RFv {
+  gap: 8px;
+  left: 15px;
+  top: 14px;
+  width: 172px;
+}
+
+.character-profile-all-breakpoints .rectangle-66-5xYh6q {
+  height: 40px;
+  min-width: 40px;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .frame-59-5xYh6q {
+  gap: 6px;
+}
+
+.character-profile-all-breakpoints .livia-press-4qQtMA {
+  line-height: 22.4px;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .alexa-mwoxdc {
+  line-height: 21.6px;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+}
+
+.character-profile-all-breakpoints .x2555-k-920RFv {
+  height: 18px;
+  left: 210px;
+  line-height: 21.6px;
+  top: 42px;
+  width: 51px;
+}
+
+.character-profile-all-breakpoints .group-96-5sR7Hf {
+  background-color: transparent;
+  height: 74px;
+  left: 1139px;
+  position: absolute;
+  top: 558px;
+  width: 279px;
+}
+
+.character-profile-all-breakpoints .rectangle-64-IRCo4w {
+  height: 74px;
+  left: 0px;
+  top: 0px;
+  width: 277px;
+}
+
+.character-profile-all-breakpoints .frame-60-IRCo4w {
+  gap: 8px;
+  left: 15px;
+  top: 14px;
+  width: 172px;
+}
+
+.character-profile-all-breakpoints .rectangle-66-Sql0fp {
+  height: 40px;
+  min-width: 40px;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .frame-59-Sql0fp {
+  gap: 6px;
+}
+
+.character-profile-all-breakpoints .livia-press-x9I97Q {
+  line-height: 22.4px;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .alexa-0u7H3s {
+  line-height: 21.6px;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+}
+
+.character-profile-all-breakpoints .x2555-k-IRCo4w {
+  height: 18px;
+  left: 210px;
+  line-height: 21.6px;
+  top: 42px;
+  width: 51px;
+}
+
+.character-profile-all-breakpoints .group-97-5sR7Hf {
+  background-color: transparent;
+  height: 74px;
+  left: 1139px;
+  position: absolute;
+  top: 648px;
+  width: 279px;
+}
+
+.character-profile-all-breakpoints .rectangle-64-bjBEHN {
+  height: 74px;
+  left: 0px;
+  top: 0px;
+  width: 277px;
+}
+
+.character-profile-all-breakpoints .frame-60-bjBEHN {
+  gap: 8px;
+  left: 15px;
+  top: 14px;
+  width: 172px;
+}
+
+.character-profile-all-breakpoints .rectangle-66-XKhRX6 {
+  height: 40px;
+  min-width: 40px;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .frame-59-XKhRX6 {
+  gap: 6px;
+}
+
+.character-profile-all-breakpoints .livia-press-ncg2ek {
+  line-height: 22.4px;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .alexa-6BXX49 {
+  line-height: 21.6px;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+}
+
+.character-profile-all-breakpoints .x2555-k-bjBEHN {
+  height: 18px;
+  left: 210px;
+  line-height: 21.6px;
+  top: 42px;
+  width: 51px;
+}
+
+.character-profile-all-breakpoints .group-98-5sR7Hf {
+  background-color: transparent;
+  height: 74px;
+  left: 1139px;
+  position: absolute;
+  top: 738px;
+  width: 279px;
+}
+
+.character-profile-all-breakpoints .rectangle-64-LI57Y7 {
+  height: 74px;
+  left: 0px;
+  top: 0px;
+  width: 277px;
+}
+
+.character-profile-all-breakpoints .frame-60-LI57Y7 {
+  gap: 8px;
+  left: 15px;
+  top: 14px;
+  width: 172px;
+}
+
+.character-profile-all-breakpoints .rectangle-66-RtHknB {
+  height: 40px;
+  min-width: 40px;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .frame-59-RtHknB {
+  gap: 6px;
+}
+
+.character-profile-all-breakpoints .livia-press-hzjxKc {
+  line-height: 22.4px;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .alexa-YloIMu {
+  line-height: 21.6px;
+  margin-bottom: -1.00px;
+  margin-top: -3.00px;
+}
+
+.character-profile-all-breakpoints .x2555-k-LI57Y7 {
+  height: 18px;
+  left: 210px;
+  line-height: 21.6px;
+  top: 42px;
+  width: 51px;
+}
+
+.character-profile-all-breakpoints .recent-chats-5sR7Hf {
+  background-color: transparent;
+  height: 28px;
+  left: 1139px;
+  letter-spacing: 0.00px;
+  line-height: 28.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 139px;
+  white-space: nowrap;
+  width: 277px;
+}
+
+.character-profile-all-breakpoints .rectangle-66-5sR7Hf {
+  height: 83px;
+  left: 1139px;
+  position: absolute;
+  top: 179px;
+  width: 62px;
+}
+
+.character-profile-all-breakpoints .rectangle-69-5sR7Hf {
+  height: 83px;
+  left: 1211px;
+  position: absolute;
+  top: 179px;
+  width: 62px;
+}
+
+.character-profile-all-breakpoints .rectangle-70-5sR7Hf {
+  background-color: transparent;
+  height: 83px;
+  left: 1283px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 179px;
+  width: 62px;
+}
+
+.character-profile-all-breakpoints .rectangle-71-5sR7Hf {
+  background-color: transparent;
+  height: 83px;
+  left: 1355px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 179px;
+  width: 62px;
+}
+
+.character-profile-all-breakpoints .marley-5sR7Hf {
+  background-color: transparent;
+  height: auto;
+  left: 1146px;
+  letter-spacing: 0.00px;
+  line-height: 19.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 270px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.character-profile-all-breakpoints .tiana-5sR7Hf {
+  background-color: transparent;
+  height: auto;
+  left: 1218px;
+  letter-spacing: 0.00px;
+  line-height: 19.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 270px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.character-profile-all-breakpoints .emery-5sR7Hf {
+  background-color: transparent;
+  height: auto;
+  left: 1290px;
+  letter-spacing: 0.00px;
+  line-height: 19.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 270px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.character-profile-all-breakpoints .alena-5sR7Hf {
+  background-color: transparent;
+  height: auto;
+  left: 1366px;
+  letter-spacing: 0.00px;
+  line-height: 19.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 270px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.character-profile-all-breakpoints .rectangle-64-5sR7Hf {
+  height: 311px;
+  left: 380px;
+  top: 582px;
+  width: 640px;
+}
+
+.character-profile-all-breakpoints .frame-60-5sR7Hf {
+  gap: 12px;
+  left: 400px;
+  top: 602px;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .rectangle-66-pTEYER {
+  height: 58px;
+  min-width: 58px;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .frame-59-pTEYER {
+  gap: 2px;
+}
+
+.character-profile-all-breakpoints .livia-press-Da1SWa {
+  line-height: 28.0px;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .alexa-Da1SWa {
+  line-height: 21.6px;
+}
+
+.character-profile-all-breakpoints .more-5sR7Hf {
+  left: 976px;
+  top: 619px;
+}
+
+.character-profile-all-breakpoints .group-93-5sR7Hf {
+  background-color: transparent;
+  height: 482px;
+  left: 380px;
+  position: absolute;
+  top: 913px;
+  width: 640px;
+}
+
+.character-profile-all-breakpoints .rectangle-64-h986Fj {
+  height: 482px;
+  left: 0px;
+  top: 0px;
+  width: 640px;
+}
+
+.character-profile-all-breakpoints .frame-60-h986Fj {
+  gap: 12px;
+  left: 20px;
+  top: 20px;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .rectangle-66-V2fVpQ {
+  height: 58px;
+  min-width: 58px;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .frame-59-V2fVpQ {
+  gap: 2px;
+}
+
+.character-profile-all-breakpoints .livia-press-RJxcDg {
+  line-height: 28.0px;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .alexa-RJxcDg {
+  line-height: 21.6px;
+}
+
+.character-profile-all-breakpoints .rectangle-67-h986Fj {
+  height: 330px;
+  left: 20px;
+  top: 94px;
+}
+
+.character-profile-all-breakpoints .frame-64-h986Fj {
+  left: 20px;
+  top: 437px;
+}
+
+.character-profile-all-breakpoints .like-SFk6hF {
+  height: 24px;
+  min-width: 24px;
+}
+
+.character-profile-all-breakpoints .like-8bn0XD {
+  letter-spacing: 0.00px;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .frame-63-wx054L {
+  position: relative;
+}
+
+.character-profile-all-breakpoints .share-CmQJ8I {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .share-MH5NRj {
+  letter-spacing: 0.00px;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .frame-65-h986Fj {
+  left: 20px;
+  top: 437px;
+}
+
+.character-profile-all-breakpoints .like-WKg7RS {
+  height: 24px;
+  min-width: 24px;
+}
+
+.character-profile-all-breakpoints .like-076Xjc {
+  letter-spacing: 0.00px;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .frame-63-tQHxOS {
+  position: relative;
+}
+
+.character-profile-all-breakpoints .share-gInf5x {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .share-uuFgkU {
+  letter-spacing: 0.00px;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .frame-63-h986Fj {
+  left: 507px;
+  position: absolute;
+  top: 437px;
+}
+
+.character-profile-all-breakpoints .more-h986Fj {
+  left: 596px;
+  top: 37px;
+}
+
+.character-profile-all-breakpoints .rectangle-64-s3b0QM {
+  height: 482px;
+  left: 380px;
+  top: 1415px;
+  width: 640px;
+}
+
+.character-profile-all-breakpoints .frame-60-s3b0QM {
+  gap: 12px;
+  left: 400px;
+  top: 1435px;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .rectangle-66-bw2sgN {
+  height: 58px;
+  min-width: 58px;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .frame-59-bw2sgN {
+  gap: 2px;
+}
+
+.character-profile-all-breakpoints .livia-press-BOSayS {
+  line-height: 28.0px;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .alexa-BOSayS {
+  line-height: 21.6px;
+}
+
+.character-profile-all-breakpoints .rectangle-67-5sR7Hf {
+  height: 206px;
+  left: 400px;
+  top: 1633px;
+}
+
+.character-profile-all-breakpoints .frame-64-5sR7Hf {
+  left: 400px;
+  top: 1852px;
+}
+
+.character-profile-all-breakpoints .like-91bNLx {
+  height: 24px;
+  min-width: 24px;
+}
+
+.character-profile-all-breakpoints .like-JkluEz {
+  letter-spacing: 0.00px;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .frame-63-m6rgkI {
+  position: relative;
+}
+
+.character-profile-all-breakpoints .share-3xkaPZ {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .share-UxOHAW {
+  letter-spacing: 0.00px;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .frame-65-5sR7Hf {
+  left: 400px;
+  top: 1852px;
+}
+
+.character-profile-all-breakpoints .like-7JxK7x {
+  height: 24px;
+  min-width: 24px;
+}
+
+.character-profile-all-breakpoints .like-vrtPwy {
+  letter-spacing: 0.00px;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .frame-63-GC1kV5 {
+  position: relative;
+}
+
+.character-profile-all-breakpoints .share-nx5Ymv {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .share-G0YxK8 {
+  letter-spacing: 0.00px;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .frame-63-5sR7Hf {
+  left: 887px;
+  position: absolute;
+  top: 1852px;
+}
+
+.character-profile-all-breakpoints .more-s3b0QM {
+  left: 976px;
+  top: 1452px;
+}
+
+.character-profile-all-breakpoints .title-5sR7Hf {
+  background-color: transparent;
+  height: 34px;
+  left: 380px;
+  letter-spacing: 0.00px;
+  line-height: 33.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 531px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.character-profile-all-breakpoints .group-110-5sR7Hf {
+  background-color: transparent;
+  height: 45px;
+  left: 380px;
+  position: absolute;
+  top: 828px;
+  width: 640px;
+}
+
+.character-profile-all-breakpoints .frame-64-Hma6i9 {
+  left: 20px;
+  top: 20px;
+}
+
+.character-profile-all-breakpoints .like-D92WhO {
+  height: 24px;
+  min-width: 24px;
+}
+
+.character-profile-all-breakpoints .like-57tEee {
+  letter-spacing: 0.00px;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .frame-63-5FuPfh {
+  position: relative;
+}
+
+.character-profile-all-breakpoints .share-Xm6AGl {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .share-dpn0V8 {
+  letter-spacing: 0.00px;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .frame-65-Hma6i9 {
+  left: 20px;
+  top: 20px;
+}
+
+.character-profile-all-breakpoints .like-vDNQkx {
+  height: 24px;
+  min-width: 24px;
+}
+
+.character-profile-all-breakpoints .like-Tits5J {
+  letter-spacing: 0.00px;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .frame-63-7xJKp1 {
+  position: relative;
+}
+
+.character-profile-all-breakpoints .share-Likwj8 {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .share-0TJKDY {
+  letter-spacing: 0.00px;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .frame-63-Hma6i9 {
+  left: 507px;
+  position: absolute;
+  top: 20px;
+}
+
+.character-profile-all-breakpoints .vector-9-Hma6i9 {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 640px;
+}
+
+.character-profile-all-breakpoints .alice-is-an-artist-a-s3b0QM {
+  height: auto;
+  left: 400px;
+  line-height: 25.6px;
+  top: 688px;
+  width: 600px;
+}
+
+.character-profile-all-breakpoints .alice-is-an-artist-a-uGvGZE {
+  height: auto;
+  left: 400px;
+  line-height: 25.6px;
+  top: 1513px;
+  width: 600px;
+}
+
+.character-profile-all-breakpoints .component-2-5sR7Hf {
+  background-color: transparent;
+  height: 810px;
+  left: -4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 65px;
+  width: 280px;
+}
+
+.character-profile-all-breakpoints .rectangle-20-YmkCUl {
+  position: absolute;
+}
+
+.character-profile-all-breakpoints .rectangle-20-3PZiwq {
+  -webkit-backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  border-bottom-style: none;
+  border-color: var(--white-2);
+  border-left-style: none;
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-top-style: none;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .umairuiux-YmkCUl {
+  background-color: transparent;
+  height: 2.72%;
+  left: 31.43%;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 92.22%;
+  white-space: nowrap;
+  width: 29.29%;
+}
+
+.character-profile-all-breakpoints .frame-17-YmkCUl {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: 28.15%;
+  left: 8.57%;
+  position: absolute;
+  top: 13.21%;
+  width: 82.86%;
+}
+
+.character-profile-all-breakpoints .frame-14-KfNNBx {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--medium-purple);
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  mix-blend-mode: normal;
+  padding: 12px 16px;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .frame-8-PYhWNS {
+  align-self: stretch;
+}
+
+.character-profile-all-breakpoints .add-square-Qx11lp {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .create-Qx11lp {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .frame-9-KfNNBx {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white-4);
+  border: 1px solid;
+  border-color: var(--white-4);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  mix-blend-mode: normal;
+  padding: 12px 16px;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .frame-8-ucbCj7 {
+  align-self: stretch;
+  cursor: pointer;
+}
+
+.character-profile-all-breakpoints .home-XzifGD {
+  height: 24px;
+  min-width: 24px;
+}
+
+.character-profile-all-breakpoints .home-Yv1kby {
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .frame-10-KfNNBx {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  padding: 12px 16px;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .frame-8-PFsyp0 {
+  align-self: stretch;
+  cursor: pointer;
+}
+
+.character-profile-all-breakpoints .speedometer-mdp9sx {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .feed-mdp9sx {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .frame-11-KfNNBx {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  padding: 12px 16px;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .frame-8-wHLqQ0 {
+  cursor: pointer;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .messages-2-k96tqW {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .chats-k96tqW {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .frame-15-YmkCUl {
+  height: 5.93%;
+  left: 8.57%;
+  top: 90.62%;
+  width: 17.14%;
+}
+
+.character-profile-all-breakpoints .alexa {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .alice-is-an-artist-a {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+}
+
+.character-profile-all-breakpoints .frame-15 {
+  align-items: flex-start;
+  background-color: var(--medium-purple);
+  border-radius: 127px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  mix-blend-mode: normal;
+  padding: 12px;
+  position: absolute;
+}
+
+.character-profile-all-breakpoints .frame-27 {
+  align-items: center;
+  background-color: var(--oracle);
+  border-radius: 49px;
+  display: flex;
+  gap: 10px;
+  height: 18px;
+  justify-content: center;
+  mix-blend-mode: normal;
+  padding: 0px 10px;
+  position: relative;
+  width: 68px;
+}
+
+.character-profile-all-breakpoints .frame-59 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .frame-60 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  height: auto;
+  position: absolute;
+}
+
+.character-profile-all-breakpoints .frame-63 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 8px;
+  height: auto;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .frame-64 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 48px;
+  height: auto;
+  position: absolute;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .frame-65 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 48px;
+  height: auto;
+  position: absolute;
+  width: fit-content;
+}
+
+.character-profile-all-breakpoints .frame-71 {
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--medium-purple);
+  border-radius: 65px;
+  height: 40px;
+  overflow: hidden;
+}
+
+.character-profile-all-breakpoints .hero-background {
+  background-color: transparent;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  width: 1440px;
+}
+
+.character-profile-all-breakpoints .icon-eye {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .like {
+  background-color: transparent;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.character-profile-all-breakpoints .livia-press {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.character-profile-all-breakpoints .more {
+  background-color: transparent;
+  height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  width: 24px;
+}
+
+.character-profile-all-breakpoints .rectangle-64 {
+  -webkit-backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  background-color: var(--steel-gray);
+  border: 1px solid;
+  border-color: var(--white-2);
+  border-radius: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+}
+
+.character-profile-all-breakpoints .rectangle-66 {
+  background-color: transparent;
+  mix-blend-mode: normal;
+  object-fit: cover;
+}
+
+.character-profile-all-breakpoints .rectangle-67 {
+  background-color: transparent;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  width: 600px;
+}
+
+.character-profile-all-breakpoints .rectangle-69 {
+  background-color: transparent;
+  mix-blend-mode: normal;
+  object-fit: cover;
+}
+
+.character-profile-all-breakpoints .share {
+  background-color: transparent;
+  mix-blend-mode: normal;
+}
+
+.character-profile-all-breakpoints .x2555-k {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  white-space: nowrap;
+}
+/* screen - character-profile-moile */
+
+.character-profile-moile {
+  background-color: var(--white);
+  border: 1px none;
+  margin: 0px;
+  min-height: 932px;
+  min-width: 430px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.character-profile-moile .frame-104-tniUrO {
+  background-color: transparent;
+  height: 4860px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 430px;
+}
+
+.character-profile-moile .backgrund-G4lu4p {
+  background-color: transparent;
+  height: 4860px;
+  left: -505px;
+  position: relative;
+  top: 0px;
+  width: 1440px;
+}
+
+.character-profile-moile .hero-background-m7QI8n {
+  height: 810px;
+  left: 505px;
+  top: 0px;
+  width: 430px;
+}
+
+.character-profile-moile .hero-background-x5MEmK {
+  height: 122px;
+  left: 505px;
+  top: 810px;
+  width: 430px;
+}
+
+.character-profile-moile .hero-background-33gNI6 {
+  height: 810px;
+  left: 6529px;
+  top: -4090px;
+  width: 1440px;
+}
+
+.character-profile-moile .hero-background-fcahFK {
+  height: 810px;
+  left: 6529px;
+  top: -3280px;
+  width: 1440px;
+}
+
+.character-profile-moile .hero-background-1JUxYx {
+  height: 810px;
+  left: 6529px;
+  top: -2470px;
+  width: 1440px;
+}
+
+.character-profile-moile .hero-background-5ihLnL {
+  height: 810px;
+  left: 6529px;
+  top: -1660px;
+  width: 1440px;
+}
+
+.character-profile-moile .frame-123-tniUrO {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  height: auto;
+  left: 20px;
+  position: absolute;
+  top: 382px;
+  width: fit-content;
+}
+
+.character-profile-moile .feed-UIeIEx {
+  height: 377px;
+}
+
+.character-profile-moile .livia-press-YB6dQf {
+  line-height: 28.0px;
+  width: fit-content;
+}
+
+.character-profile-moile .alice-is-an-artist-a-ySPxTh {
+  align-self: stretch;
+  flex: 1;
+  line-height: 25.6px;
+  position: relative;
+}
+
+.character-profile-moile .frame-121-ySPxTh {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  border-bottom-style: none;
+  border-color: var(--white-2);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: solid;
+  border-top-width: 1px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  padding: 10px 0px;
+  position: relative;
+}
+
+.character-profile-moile .component-1-8fYtcx {
+  width: 358px;
+}
+
+.character-profile-moile .share-Z86DqB {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.character-profile-moile .x406k-views-wAQfJ6 {
+  color: var(--white-2);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.character-profile-moile .feed-MxfW67 {
+  height: 438px;
+}
+
+.character-profile-moile .livia-press-8sUCG9 {
+  line-height: 28.0px;
+  width: fit-content;
+}
+
+.character-profile-moile .rectangle-67-TJgUVC {
+  align-self: stretch;
+  background-color: transparent;
+  flex: 1;
+  height: 60px;
+  min-width: 358px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: relative;
+}
+
+.character-profile-moile .component-1-TJgUVC {
+  align-self: stretch;
+}
+
+.character-profile-moile .like-y0HbTu {
+  margin-right: -6397.00px;
+  margin-top: -6890.00px;
+}
+
+.character-profile-moile .message-text-X22y3n {
+  margin-right: -6445.00px;
+  margin-top: -6890.00px;
+}
+
+.character-profile-moile .share-Ec297x {
+  height: 24px;
+  margin-right: -6397.00px;
+  margin-top: -6890.00px;
+  min-width: 24px;
+  position: relative;
+}
+
+.character-profile-moile .eye-5ptm2h {
+  margin-right: -6159.00px;
+  margin-top: -6889.50px;
+}
+
+.character-profile-moile .bottom-menu-tniUrO {
+  background-color: transparent;
+  height: 83px;
+  left: 0px;
+  position: absolute;
+  top: 849px;
+  width: 430px;
+}
+
+.character-profile-moile .rectangle-EvlQTE {
+  -webkit-backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  background-color: var(--steel-gray);
+  border-bottom-style: none;
+  border-color: var(--white-2);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 83px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 430px;
+}
+
+.character-profile-moile .frame-105-EvlQTE {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 430px;
+}
+
+.character-profile-moile .tab-1-6Ap3j8 {
+  background-color: transparent;
+  flex: 1;
+  height: 49px;
+  min-width: 86px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+}
+
+.character-profile-moile .home-ESpjgA {
+  background-color: transparent;
+  height: 24px;
+  left: calc(50.00% - 13px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 18px);
+  width: 24px;
+}
+
+.character-profile-moile .status-ESpjgA {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 14px);
+  letter-spacing: 0.10px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: calc(50.00% + 10px);
+  width: auto;
+}
+
+.character-profile-moile .tab-8-6Ap3j8 {
+  background-color: transparent;
+  flex: 1;
+  height: 49px;
+  min-width: 86px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+}
+
+.character-profile-moile .speedometer-TIIGvv {
+  background-color: transparent;
+  height: 24px;
+  left: calc(50.00% - 13px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 18px);
+  width: 24px;
+}
+
+.character-profile-moile .calls-TIIGvv {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 13px);
+  letter-spacing: 0.10px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: calc(50.00% + 10px);
+  width: auto;
+}
+
+.character-profile-moile .tab-3-6Ap3j8 {
+  background-color: transparent;
+  flex: 1;
+  height: 49px;
+  min-width: 86px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+}
+
+.character-profile-moile .camera-QwMHoU {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 17px);
+  letter-spacing: 0.10px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: calc(50.00% + 10px);
+  width: auto;
+}
+
+.character-profile-moile .add-square-QwMHoU {
+  background-color: transparent;
+  height: 24px;
+  left: calc(50.00% - 13px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 18px);
+  width: 24px;
+}
+
+.character-profile-moile .tab-7-6Ap3j8 {
+  background-color: transparent;
+  flex: 1;
+  height: 49px;
+  min-width: 86px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+}
+
+.character-profile-moile .messages-2-9AwWN1 {
+  background-color: transparent;
+  height: 24px;
+  left: calc(50.00% - 12px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 18px);
+  width: 24px;
+}
+
+.character-profile-moile .chats-9AwWN1 {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 15px);
+  letter-spacing: 0.10px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: calc(50.00% + 10px);
+  width: auto;
+}
+
+.character-profile-moile .tab-6-6Ap3j8 {
+  background-color: transparent;
+  flex: 1;
+  height: 49px;
+  min-width: 86px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+}
+
+.character-profile-moile .settings-SYeoHQ {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 16px);
+  letter-spacing: 0.10px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: calc(50.00% + 10px);
+  width: auto;
+}
+
+.character-profile-moile .icon-user-SYeoHQ {
+  background-color: transparent;
+  height: 24px;
+  left: calc(50.00% - 12px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 18px);
+  width: 24px;
+}
+
+.character-profile-moile .home-indicator-EvlQTE {
+  background-color: transparent;
+  bottom: 0px;
+  height: 34px;
+  left: 0px;
+  position: absolute;
+  width: 430px;
+}
+
+.character-profile-moile .home-indicator-ngKLNf {
+  background-color: var(--black);
+  border-radius: 100px;
+  bottom: 8px;
+  height: 5px;
+  left: calc(50.00% - 67px);
+  mix-blend-mode: normal;
+  position: absolute;
+  width: 134px;
+}
+
+.character-profile-moile .rectangle-64-tniUrO {
+  -webkit-backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  background-color: transparent;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--white-2);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  height: 80px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 430px;
+}
+
+.character-profile-moile .logo-tniUrO {
+  background-color: transparent;
+  height: 34px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 23px;
+  width: 81px;
+}
+
+.character-profile-moile .frame-106-tniUrO {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 20px;
+  height: auto;
+  position: absolute;
+  right: 28px;
+  top: 28px;
+  width: fit-content;
+}
+
+.character-profile-moile .search-normal-5sp5xQ {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.character-profile-moile .message-question-5sp5xQ {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.character-profile-moile .icon-settings-5sp5xQ {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.character-profile-moile .rectangle-68-tniUrO {
+  background-color: transparent;
+  height: 120px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 80px;
+  width: 430px;
+}
+
+.character-profile-moile .rectangle-69-tniUrO {
+  background-color: transparent;
+  height: 66px;
+  left: 20px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 180px;
+  width: 66px;
+}
+
+.character-profile-moile .frame-68-tniUrO {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  left: 98px;
+  position: absolute;
+  top: 208px;
+  width: 109px;
+}
+
+.character-profile-moile .livia-press-FSWLIL {
+  align-self: stretch;
+  line-height: 22.4px;
+}
+
+.character-profile-moile .frame-73-tniUrO {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 12px;
+  height: auto;
+  position: absolute;
+  right: 20px;
+  top: 208px;
+  width: fit-content;
+}
+
+.character-profile-moile .frame-70-18sEoQ {
+  background-color: var(--medium-purple);
+  border-radius: 65px;
+  height: 32px;
+  min-width: 88px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+}
+
+.character-profile-moile .subscribe-DDPJG4 {
+  background-color: transparent;
+  height: 22px;
+  left: calc(50.00% - 30px);
+  letter-spacing: 0.00px;
+  line-height: 21.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 11px);
+  white-space: nowrap;
+  width: auto;
+}
+
+.character-profile-moile .frame-72-18sEoQ {
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--medium-purple);
+  border-radius: 65px;
+  height: 32px;
+  min-width: 32px;
+  overflow: hidden;
+  position: relative;
+}
+
+.character-profile-moile .icon-star-vfscTb {
+  background-color: transparent;
+  height: 20px;
+  left: calc(50.00% - 10px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 10px);
+  width: 20px;
+}
+
+.character-profile-moile .frame-71-18sEoQ {
+  min-width: 32px;
+  position: relative;
+}
+
+.character-profile-moile .share-vC3nEQ {
+  height: 20px;
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  width: 20px;
+}
+
+.character-profile-moile .alice-is-an-artist-a-tniUrO {
+  color: var(--white-3);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+  height: 34px;
+  left: 20px;
+  line-height: 16.8px;
+  position: absolute;
+  top: 272px;
+  width: 390px;
+}
+
+.character-profile-moile .recent-text-images-tniUrO {
+  background-color: transparent;
+  height: 22px;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 336px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.character-profile-moile .frame-71-tniUrO {
+  left: 370px;
+  position: absolute;
+  top: 327px;
+  width: 32px;
+}
+
+.character-profile-moile .image-LKhjAl {
+  background-color: transparent;
+  height: 20px;
+  left: 6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 20px;
+}
+
+.character-profile-moile .alexa {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 21.6px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.character-profile-moile .alice-is-an-artist-a {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  mix-blend-mode: normal;
+  text-align: left;
+}
+
+.character-profile-moile .component-1 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  height: auto;
+  justify-content: space-between;
+  position: relative;
+}
+
+.character-profile-moile .eye {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.character-profile-moile .feed {
+  -webkit-backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  background-color: var(--steel-gray);
+  border: 1px solid;
+  border-color: var(--white-2);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  padding: 16px;
+  position: relative;
+  width: 390px;
+}
+
+.character-profile-moile .frame-59 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.character-profile-moile .frame-60 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 12px;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.character-profile-moile .frame-63 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 8px;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.character-profile-moile .frame-65 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 24px;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.character-profile-moile .frame-71 {
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--medium-purple);
+  border-radius: 65px;
+  height: 32px;
+  overflow: hidden;
+}
+
+.character-profile-moile .hero-background {
+  background-color: transparent;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+}
+
+.character-profile-moile .like {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.character-profile-moile .livia-press {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.character-profile-moile .more {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.character-profile-moile .rectangle-66 {
+  background-color: transparent;
+  height: 58px;
+  min-width: 58px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: relative;
+}
+
+.character-profile-moile .share {
+  background-color: transparent;
+  mix-blend-mode: normal;
+}
+@media screen and (max-width: 1439px) {
+  .screen.character-profile-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1440px) {
+  .screen.character-profile-moile { 
+    display: none;
+   }
+}

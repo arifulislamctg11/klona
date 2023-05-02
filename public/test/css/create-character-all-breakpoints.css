@@ -1,0 +1,1442 @@
+/* screen - create-character-all-breakpoints */
+
+.chat-all-breakpoints {
+  background-color: var(--cod-gray);
+  border: 1px none;
+  margin: 0px;
+  min-height: 810px;
+  min-width: 100%;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.create-character-all-breakpoints .backgrund-JF4RiT {
+  background-color: transparent;
+  height: 4860px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.create-character-all-breakpoints .hero-background-aNE9S4 {
+  height: 810px;
+  left: 0px;
+  top: 0px;
+}
+
+.create-character-all-breakpoints .hero-background-t0bxGJ {
+  height: 1px;
+  left: 0px;
+  top: 810px;
+}
+
+.create-character-all-breakpoints .hero-background-BZACTH {
+  height: 810px;
+  left: 1841px;
+  top: -6803px;
+}
+
+.create-character-all-breakpoints .hero-background-ovexDW {
+  height: 810px;
+  left: 1841px;
+  top: -5993px;
+}
+
+.create-character-all-breakpoints .hero-background-Eef7UY {
+  height: 810px;
+  left: 1841px;
+  top: -5183px;
+}
+
+.create-character-all-breakpoints .hero-background-jqaah5 {
+  height: 810px;
+  left: 1841px;
+  top: -4373px;
+}
+
+.create-character-all-breakpoints .frame-15-JF4RiT {
+  align-items: flex-start;
+  border-radius: 127px;
+  height: auto;
+  left: 24px;
+  padding: 12px;
+  top: 734px;
+  width: fit-content;
+}
+
+.create-character-all-breakpoints .logo-JF4RiT {
+  background-color: transparent;
+  height: 34px;
+  left: 40px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 36px;
+  width: 81px;
+}
+
+.create-character-all-breakpoints .rectangle-65-JF4RiT {
+  -webkit-backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  background-color: transparent;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--white-2);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  height: 1px;
+  left: 280px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 80px;
+  width: 1160px;
+}
+
+.create-character-all-breakpoints .frame-98-JF4RiT {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: auto;
+  left: 320px;
+  position: absolute;
+  top: 105px;
+  width: fit-content;
+}
+
+.create-character-all-breakpoints .first-name-z0Dd3S {
+  line-height: 28.0px;
+  width: fit-content;
+}
+
+.create-character-all-breakpoints .frame-18-z0Dd3S {
+  align-items: flex-start;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--white-2);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 54px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  padding: 16px;
+  position: relative;
+  width: 530px;
+}
+
+.create-character-all-breakpoints .first-name-v3Laiu {
+  align-self: stretch;
+  flex: 1;
+  line-height: 22.4px;
+}
+
+.create-character-all-breakpoints .frame-99-JF4RiT {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: auto;
+  left: 870px;
+  position: absolute;
+  top: 105px;
+  width: fit-content;
+}
+
+.create-character-all-breakpoints .last-name-1qla41 {
+  line-height: 28.0px;
+  width: fit-content;
+}
+
+.create-character-all-breakpoints .frame-97-1qla41 {
+  align-items: flex-start;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--white-2);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 54px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  padding: 16px;
+  position: relative;
+  width: 530px;
+}
+
+.create-character-all-breakpoints .last-name-6ZxegL {
+  align-self: stretch;
+  flex: 1;
+  line-height: 22.4px;
+}
+
+.create-character-all-breakpoints .frame-100-JF4RiT {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: auto;
+  left: 320px;
+  position: absolute;
+  top: 223px;
+  width: fit-content;
+}
+
+.create-character-all-breakpoints .greeting-Z5wO3x {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 28.0px;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.create-character-all-breakpoints .frame-96-Z5wO3x {
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--white-2);
+  border-radius: 8px;
+  height: 127px;
+  min-width: 1080px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+}
+
+.create-character-all-breakpoints .what-would-they-say-JF4RiT {
+  background-color: transparent;
+  height: auto;
+  left: 320px;
+  letter-spacing: 0.00px;
+  line-height: 25.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 402px;
+  width: 1080px;
+}
+
+.create-character-all-breakpoints .frame-14-JF4RiT {
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--medium-purple);
+  left: 320px;
+  padding: 8px 16px;
+  position: absolute;
+  top: 678px;
+  width: 232px;
+}
+
+.create-character-all-breakpoints .frame-8-JHY9FX {
+  align-self: stretch;
+}
+
+.create-character-all-breakpoints .create-image-t0r9pN {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.create-character-all-breakpoints .frame-15-h8wonH {
+  align-items: center;
+  border-radius: 6px;
+  height: auto;
+  justify-content: center;
+  left: 320px;
+  padding: 11px 16px;
+  top: 742px;
+  width: 1080px;
+}
+
+.create-character-all-breakpoints .create-and-chat-5lhGiG {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.create-character-all-breakpoints .frame-11-JF4RiT {
+  background-color: var(--white-4);
+  border: 1px solid;
+  border-color: var(--white-4);
+  left: 568px;
+  mix-blend-mode: normal;
+  padding: 8px 16px;
+  position: absolute;
+  top: 678px;
+  width: 232px;
+}
+
+.create-character-all-breakpoints .frame-8-D9p0Cs {
+  width: fit-content;
+}
+
+.create-character-all-breakpoints .attach-circle-vcKsNL {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.create-character-all-breakpoints .choose-file-vcKsNL {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.create-character-all-breakpoints .avatar-JF4RiT {
+  background-color: transparent;
+  height: auto;
+  left: 320px;
+  letter-spacing: 0.00px;
+  line-height: 28.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 606px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.create-character-all-breakpoints .you-can-either-creat-JF4RiT {
+  background-color: transparent;
+  height: auto;
+  left: 320px;
+  letter-spacing: 0.00px;
+  line-height: 25.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 646px;
+  white-space: nowrap;
+  width: 1080px;
+}
+
+.create-character-all-breakpoints .frame-95-JF4RiT {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 16px;
+  height: auto;
+  left: 320px;
+  position: absolute;
+  top: 27px;
+  width: fit-content;
+}
+
+.create-character-all-breakpoints .thorchain-rune-YdHQPQ {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.create-character-all-breakpoints .create-YdHQPQ {
+  line-height: 28.0px;
+  margin-top: -1.00px;
+}
+
+.create-character-all-breakpoints .group-108-JF4RiT {
+  background-color: transparent;
+  height: 106px;
+  left: 320px;
+  position: absolute;
+  top: 476px;
+  width: 1122px;
+}
+
+.create-character-all-breakpoints .toggle-image-generation-HfsBRL {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 28.0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.create-character-all-breakpoints .this-character-gener-HfsBRL {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 81px;
+  white-space: nowrap;
+  width: 1080px;
+}
+
+.create-character-all-breakpoints .tick-square-HfsBRL {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 44px;
+  width: 24px;
+}
+
+.create-character-all-breakpoints .enable-image-generat-HfsBRL {
+  background-color: transparent;
+  height: auto;
+  left: 36px;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 44px;
+  white-space: nowrap;
+  width: 1080px;
+}
+
+.create-character-all-breakpoints .component-2-JF4RiT {
+  background-color: transparent;
+  height: 810px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 280px;
+}
+
+.create-character-all-breakpoints .rectangle-20-o8MA1p {
+  position: absolute;
+}
+
+.create-character-all-breakpoints .rectangle-20-uogAfw {
+  -webkit-backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  border-bottom-style: none;
+  border-color: var(--white-2);
+  border-left-style: none;
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-top-style: none;
+  position: relative;
+}
+
+.create-character-all-breakpoints .umairuiux-o8MA1p {
+  background-color: transparent;
+  height: 2.72%;
+  left: 31.43%;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 92.22%;
+  white-space: nowrap;
+  width: 29.29%;
+}
+
+.create-character-all-breakpoints .frame-17-o8MA1p {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: 28.15%;
+  left: 8.57%;
+  position: absolute;
+  top: 13.21%;
+  width: 82.86%;
+}
+
+.create-character-all-breakpoints .frame-14-As5CmU {
+  align-self: stretch;
+  background-color: var(--medium-purple);
+  cursor: pointer;
+  mix-blend-mode: normal;
+  padding: 12px 16px;
+  position: relative;
+}
+
+.create-character-all-breakpoints .frame-8-S2ObDU {
+  align-self: stretch;
+}
+
+.create-character-all-breakpoints .create-iY2ZAF {
+  line-height: 22.4px;
+}
+
+.create-character-all-breakpoints .frame-9-As5CmU {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white-4);
+  border: 1px solid;
+  border-color: var(--white-4);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  mix-blend-mode: normal;
+  padding: 12px 16px;
+  position: relative;
+}
+
+.create-character-all-breakpoints .frame-8-7EomEb {
+  align-self: stretch;
+  cursor: pointer;
+}
+
+.create-character-all-breakpoints .home-kzJKh3 {
+  height: 24px;
+  min-width: 24px;
+}
+
+.create-character-all-breakpoints .home-soOxqW {
+  cursor: pointer;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.create-character-all-breakpoints .frame-10-As5CmU {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  padding: 12px 16px;
+  position: relative;
+}
+
+.create-character-all-breakpoints .frame-8-aQcxZP {
+  align-self: stretch;
+  cursor: pointer;
+}
+
+.create-character-all-breakpoints .speedometer-lP82ep {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.create-character-all-breakpoints .feed-lP82ep {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.create-character-all-breakpoints .frame-11-As5CmU {
+  align-self: stretch;
+  background-color: transparent;
+  padding: 12px 16px;
+  position: relative;
+}
+
+.create-character-all-breakpoints .frame-8-mQStjf {
+  cursor: pointer;
+  width: fit-content;
+}
+
+.create-character-all-breakpoints .messages-2-2AfJGb {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.create-character-all-breakpoints .chats-2AfJGb {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.create-character-all-breakpoints .frame-15-o8MA1p {
+  align-items: flex-start;
+  border-radius: 127px;
+  height: 5.93%;
+  left: 8.57%;
+  padding: 12px;
+  top: 90.62%;
+  width: 17.14%;
+}
+
+.create-character-all-breakpoints .add-square {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.create-character-all-breakpoints .create {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.create-character-all-breakpoints .frame-11 {
+  align-items: flex-start;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+}
+
+.create-character-all-breakpoints .frame-14 {
+  align-items: flex-start;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+}
+
+.create-character-all-breakpoints .frame-15 {
+  background-color: var(--medium-purple);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  mix-blend-mode: normal;
+  position: absolute;
+}
+
+.create-character-all-breakpoints .hero-background {
+  background-color: transparent;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  width: 1440px;
+}
+/* screen - create-character-mobile */
+
+.create-character-mobile {
+  background-color: var(--white);
+  border: 1px none;
+  margin: 0px;
+  min-height: 1188px;
+  min-width: 430px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.create-character-mobile .frame-104-LxMqsM {
+  background-color: transparent;
+  height: 4860px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 430px;
+}
+
+.create-character-mobile .backgrund-USUDpb {
+  background-color: transparent;
+  height: 4860px;
+  left: -505px;
+  position: relative;
+  top: 0px;
+  width: 1440px;
+}
+
+.create-character-mobile .hero-background-C3iQ8x {
+  height: 810px;
+  left: 505px;
+  top: 0px;
+  width: 430px;
+}
+
+.create-character-mobile .hero-background-9Tjmha {
+  height: 378px;
+  left: 505px;
+  top: 810px;
+  width: 430px;
+}
+
+.create-character-mobile .hero-background-ms1kps {
+  height: 810px;
+  left: 5499px;
+  top: -4090px;
+  width: 1440px;
+}
+
+.create-character-mobile .hero-background-2xwznf {
+  height: 810px;
+  left: 5499px;
+  top: -3280px;
+  width: 1440px;
+}
+
+.create-character-mobile .hero-background-GqQQf2 {
+  height: 810px;
+  left: 5499px;
+  top: -2470px;
+  width: 1440px;
+}
+
+.create-character-mobile .hero-background-mCW86K {
+  height: 810px;
+  left: 5499px;
+  top: -1660px;
+  width: 1440px;
+}
+
+.create-character-mobile .bottom-menu-LxMqsM {
+  background-color: transparent;
+  height: 83px;
+  left: 0px;
+  position: absolute;
+  top: 1105px;
+  width: 430px;
+}
+
+.create-character-mobile .rectangle-aToC1G {
+  -webkit-backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  background-color: var(--steel-gray);
+  border-bottom-style: none;
+  border-color: var(--white-2);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 83px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 430px;
+}
+
+.create-character-mobile .frame-105-aToC1G {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 430px;
+}
+
+.create-character-mobile .tab-1-uNEV2T {
+  background-color: transparent;
+  flex: 1;
+  height: 49px;
+  min-width: 86px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+}
+
+.create-character-mobile .home-tmfqxb {
+  background-color: transparent;
+  height: 24px;
+  left: calc(50.00% - 13px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 18px);
+  width: 24px;
+}
+
+.create-character-mobile .status-tmfqxb {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 14px);
+  letter-spacing: 0.10px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: calc(50.00% + 10px);
+  width: auto;
+}
+
+.create-character-mobile .tab-2-uNEV2T {
+  background-color: transparent;
+  flex: 1;
+  height: 49px;
+  min-width: 86px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+}
+
+.create-character-mobile .speedometer-5gM6cV {
+  background-color: transparent;
+  height: 24px;
+  left: calc(50.00% - 13px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 18px);
+  width: 24px;
+}
+
+.create-character-mobile .calls-5gM6cV {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 13px);
+  letter-spacing: 0.10px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: calc(50.00% + 10px);
+  width: auto;
+}
+
+.create-character-mobile .tab-3-uNEV2T {
+  background-color: transparent;
+  flex: 1;
+  height: 49px;
+  min-width: 86px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+}
+
+.create-character-mobile .camera-qgCxQL {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 17px);
+  letter-spacing: 0.10px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: calc(50.00% + 10px);
+  width: auto;
+}
+
+.create-character-mobile .add-square-qgCxQL {
+  left: calc(50.00% - 13px);
+  position: absolute;
+  top: calc(50.00% - 18px);
+  width: 24px;
+}
+
+.create-character-mobile .tab-7-uNEV2T {
+  background-color: transparent;
+  flex: 1;
+  height: 49px;
+  min-width: 86px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+}
+
+.create-character-mobile .messages-2-SAVpBq {
+  background-color: transparent;
+  height: 24px;
+  left: calc(50.00% - 12px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 18px);
+  width: 24px;
+}
+
+.create-character-mobile .chats-SAVpBq {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 15px);
+  letter-spacing: 0.10px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: calc(50.00% + 10px);
+  width: auto;
+}
+
+.create-character-mobile .tab-6-uNEV2T {
+  background-color: transparent;
+  flex: 1;
+  height: 49px;
+  min-width: 86px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+}
+
+.create-character-mobile .settings-XRLx4c {
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 16px);
+  letter-spacing: 0.10px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: calc(50.00% + 10px);
+  width: auto;
+}
+
+.create-character-mobile .icon-user-XRLx4c {
+  background-color: transparent;
+  height: 24px;
+  left: calc(50.00% - 12px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: calc(50.00% - 18px);
+  width: 24px;
+}
+
+.create-character-mobile .home-indicator-aToC1G {
+  background-color: transparent;
+  bottom: 0px;
+  height: 34px;
+  left: 0px;
+  position: absolute;
+  width: 430px;
+}
+
+.create-character-mobile .home-indicator-qBvPSM {
+  background-color: var(--black);
+  border-radius: 100px;
+  bottom: 8px;
+  height: 5px;
+  left: calc(50.00% - 67px);
+  mix-blend-mode: normal;
+  position: absolute;
+  width: 134px;
+}
+
+.create-character-mobile .rectangle-64-LxMqsM {
+  -webkit-backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  background-color: transparent;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--white-2);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  height: 80px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 430px;
+}
+
+.create-character-mobile .logo-LxMqsM {
+  background-color: transparent;
+  height: 34px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 23px;
+  width: 81px;
+}
+
+.create-character-mobile .frame-106-LxMqsM {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 20px;
+  height: auto;
+  position: absolute;
+  right: 28px;
+  top: 28px;
+  width: fit-content;
+}
+
+.create-character-mobile .search-normal-Z9ObeQ {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.create-character-mobile .message-question-Z9ObeQ {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.create-character-mobile .icon-settings-Z9ObeQ {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.create-character-mobile .frame-132-LxMqsM {
+  -webkit-backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(115.56800079345703px) brightness(100%);
+  background-color: var(--steel-gray);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--white-2);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  padding: 14px 20px;
+  position: absolute;
+  top: 80px;
+  width: 430px;
+}
+
+.create-character-mobile .frame-95-06awsv {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 16px;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.create-character-mobile .thorchain-rune-6MtSDj {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.create-character-mobile .create-6MtSDj {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 28.0px;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.create-character-mobile .frame-133-LxMqsM {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: auto;
+  left: 20px;
+  position: absolute;
+  top: 164px;
+  width: 390px;
+}
+
+.create-character-mobile .frame-98-h0tNuE {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: auto;
+  position: relative;
+}
+
+.create-character-mobile .first-name-zYWxQP {
+  line-height: 25.2px;
+  width: fit-content;
+}
+
+.create-character-mobile .frame-18-zYWxQP {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--white-2);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 54px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  padding: 16px;
+  position: relative;
+}
+
+.create-character-mobile .first-name-XbkGHk {
+  align-self: stretch;
+  flex: 1;
+  line-height: 19.6px;
+}
+
+.create-character-mobile .frame-99-h0tNuE {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: auto;
+  position: relative;
+}
+
+.create-character-mobile .last-name-qAoond {
+  line-height: 25.2px;
+  width: fit-content;
+}
+
+.create-character-mobile .frame-97-qAoond {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--white-2);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 54px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  padding: 16px;
+  position: relative;
+}
+
+.create-character-mobile .last-name-Oz1Gev {
+  align-self: stretch;
+  flex: 1;
+  line-height: 19.6px;
+}
+
+.create-character-mobile .frame-100-LxMqsM {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: auto;
+  left: 20px;
+  position: absolute;
+  top: 380px;
+  width: 390px;
+}
+
+.create-character-mobile .greeting-roo1Qd {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.create-character-mobile .frame-96-roo1Qd {
+  align-self: stretch;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--white-2);
+  border-radius: 8px;
+  height: 127px;
+  min-width: 390px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+}
+
+.create-character-mobile .what-would-they-say-LxMqsM {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: 25.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 553px;
+  width: 390px;
+}
+
+.create-character-mobile .toggle-image-generation-LxMqsM {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: 25.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 685px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.create-character-mobile .frame-135-LxMqsM {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: auto;
+  left: 20px;
+  position: absolute;
+  top: 723px;
+  width: fit-content;
+}
+
+.create-character-mobile .frame-134-SNTPxR {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 12px;
+  height: auto;
+  position: relative;
+  width: fit-content;
+}
+
+.create-character-mobile .tick-square-JPxcx6 {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.create-character-mobile .enable-image-generat-JPxcx6 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.create-character-mobile .this-character-gener-SNTPxR {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 25.2px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.create-character-mobile .avatar-LxMqsM {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: 25.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 816px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.create-character-mobile .you-can-either-creat-LxMqsM {
+  background-color: transparent;
+  height: auto;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: 25.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 854px;
+  width: 390px;
+}
+
+.create-character-mobile .frame-14-LxMqsM {
+  align-items: flex-start;
+  background-color: transparent;
+  border: 1px solid;
+  border-color: var(--medium-purple);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  left: 20px;
+  padding: 8px 16px;
+  position: absolute;
+  top: 920px;
+  width: 390px;
+}
+
+.create-character-mobile .frame-8-Gny8AF {
+  align-self: stretch;
+}
+
+.create-character-mobile .add-square-FS7Woc {
+  min-width: 24px;
+  position: relative;
+}
+
+.create-character-mobile .create-image-FS7Woc {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.create-character-mobile .frame-11-LxMqsM {
+  align-items: flex-start;
+  background-color: var(--white-4);
+  border: 1px solid;
+  border-color: var(--white-4);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  left: 20px;
+  mix-blend-mode: normal;
+  padding: 8px 16px;
+  position: absolute;
+  top: 973px;
+  width: 390px;
+}
+
+.create-character-mobile .frame-8-KEDgsC {
+  width: fit-content;
+}
+
+.create-character-mobile .attach-circle-dbt3e5 {
+  background-color: transparent;
+  height: 24px;
+  min-width: 24px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.create-character-mobile .choose-file-dbt3e5 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.create-character-mobile .frame-15-LxMqsM {
+  align-items: center;
+  background-color: var(--medium-purple);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: auto;
+  justify-content: center;
+  left: 20px;
+  mix-blend-mode: normal;
+  padding: 11px 16px;
+  position: absolute;
+  top: 1029px;
+  width: 390px;
+}
+
+.create-character-mobile .create-and-chat-tEI9D9 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 22.4px;
+  margin-top: -1.00px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.create-character-mobile .add-square {
+  background-color: transparent;
+  height: 24px;
+  mix-blend-mode: normal;
+}
+
+.create-character-mobile .hero-background {
+  background-color: transparent;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+}
+@media screen and (max-width: 1023px) {
+  .screen.create-character-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1024px) {
+  .screen.create-character-mobile { 
+    display: none;
+   }
+}
