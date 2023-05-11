@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\interest;
+use App\Model\interest;
 use Illuminate\Http\Request;
 
 class InterestController extends Controller
