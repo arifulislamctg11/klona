@@ -1,5 +1,9 @@
 <?php
 
+use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\Auth;
+use TCG\Voyager\Facades\Voyager;
+use App\Http\Controllers\AICharacterController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -20,10 +24,8 @@ Route::group(['prefix' => 'admin', 'middleware' => 'jsVars'], function () {
     Route::get('/metrics/subscriptions/value', 'MetricsController@subscriptionsValue')->name('admin.metrics.subscriptions.value');
     Route::get('/metrics/subscriptions/trend', 'MetricsController@subscriptionsTrend')->name('admin.metrics.subscriptions.trend');
     Route::get('/metrics/subscriptions/partition', 'MetricsController@subscriptionsPartition')->name('admin.metrics.subscriptions.partition');
-
     Route::post('/theme/generate', 'GenericController@generateCustomTheme')->name('admin.theme.generate');
     Route::post('/license/save', 'GenericController@saveLicense')->name('admin.license.save');
-
 });
 
 // Home & contact page
@@ -120,6 +122,13 @@ Route::group(['middleware' => ['auth','verified','2fa']], function () {
             Route::post('poster-upload', ['uses' => 'StreamsController@posterUpload', 'as'   => 'poster.upload']);
         });
 
+
+        Route::group(['prefix' => 'aicharacter', 'as' => 'aicharacter.'], function () {
+            Route::get('/',  [AICharacterController::class, 'index']);
+            Route::get('/create',  [AICharacterController::class, 'create']);
+            Route::post('create',  [AICharacterController::class, 'store']);
+        });
+
     });
 
     Route::post('authorizeStreamPresence', ['uses' => 'StreamsController@authorizeUser', 'as'  => 'public.stream.authorizeUser']);
@@ -145,11 +154,8 @@ Route::group(['middleware' => ['auth','verified','2fa']], function () {
     Route::get('/feed', ['uses' => 'FeedController@index', 'as'   => 'feed']);
     Route::get('/feed/posts', ['uses' => 'FeedController@getFeedPosts', 'as'   => 'feed.posts']);
     //new search user dawar
-    Route::get('/users/search', function () {
-        return view('pages.usersearch');
-    })->name('users.search');
-    
-    Route::post('/users/search', 'UserController@handleSearchRequest')->name('users.search');
+    Route::get('/users/search', 'UserController@showSearchPage')->name('users.search');
+Route::post('/users/search', 'UserController@handleSearchRequest')->name('users.search');
 
 
     // File uploader routes

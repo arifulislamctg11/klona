@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="js/pages/searchuser.js" ></script>
+</head>
+<body>
 <div class="mobile-bottom-nav border-top z-index-3 py-1 neutral-bg">
     <div class="d-flex justify-content-between w-100 py-2 px-2">
     <a href="javascript:SubmitForm('form5')">
@@ -10,11 +20,11 @@
               </div></a
             >
         @if(Auth::check())
-            <a href="{{route('my.notifications')}}" class="h-pill h-pill-primary nav-link d-flex justify-content-between px-3 {{Route::currentRouteName() == 'my.notifications' ? 'active' : ''}}">
+            <a href="#" class="h-pill h-pill-primary nav-link d-flex justify-content-between px-3 {{Route::currentRouteName() == 'my.notifications' ? 'active' : ''}}">
                 <div class="d-flex justify-content-center align-items-center">
                     <div class="icon-wrapper d-flex justify-content-center align-items-center position-relative">
                         <!-- @include('elements.icon',['icon'=>'notifications-outline','variant'=>'large']) -->
-                        <img class="home-kzJKh3 home" src="/img/logos/se.png" style="height:35px;margin-top: -5px;margin-left: -29px;" alt="home" />
+                        <img id="mobilesearch" class="home-kzJKh3 home" src="/img/logos/se.png" style="height:35px;margin-top: -5px;margin-left: -29px;" alt="home" />
                         <!-- <div class="menu-notification-badge notifications-menu-count {{(isset($notificationsCountOverride) && $notificationsCountOverride->total > 0 ) || (NotificationsHelper::getUnreadNotifications()->total > 0) ? '' : 'd-none'}}">
                             {{!isset($notificationsCountOverride) ? NotificationsHelper::getUnreadNotifications()->total : $notificationsCountOverride->total}}
                         </div> -->
@@ -69,3 +79,6 @@
             </a>
     </div>
 </div>
+
+</body>
+</html>
