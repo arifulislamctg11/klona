@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Model\favorite_colors_and_pattern;
+use App\favorite_colors_and_pattern;
 use Illuminate\Http\Request;
 
 class FavoriteColorsAndPatternController extends Controller
